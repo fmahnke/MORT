@@ -1,0 +1,8584 @@
+/s
+Battlefield 1 is based upon events that
+unfolded over one hundred years ago.
+/t
+배틀필드1 은 백여년 전 발생한 사건에 기반을 두고 있습니다.
+/e
+
+/s
+More than 60 million soldiers fought in "The War to End All Wars".
+
+It ended nothing.
+/t
+"모든 전쟁을 끝내기 위한 전쟁"에 6천만 이상의 병사가 참전했지만, 아무것도 끝내지 못했습니다. 
+/e
+
+/s
+Yet it changed the world forever.
+/t
+그러나 세계를 영원히 바꿔 놓았습니다.
+/e
+
+/s
+What follows is frontline combat.
+
+You are not expected to survive.
+/t
+이어지는 장면은 최전선 전투입니다. 여러분의 생존은 기대되지 않습니다
+/e
+
+/s
+We're surrounded!
+/t
+우린 포위됐어!
+/e
+
+/s 
+We have to hold this line!
+/t
+전선을 사수해야 돼!
+/e
+
+/s
+They're coming!
+/t
+적들이 몰려온다!
+/e
+
+/s 
+Here they come! Fire at will!
+/t 
+몰려온다! 준비되면 사격개시!
+/e 
+
+/s
+Maintain your position!
+/t
+위치를 사수하라!
+/e
+
+/s
+Stand fast!
+/t
+지켜라!
+/e
+
+/s 
+Hold, me!
+/t 
+자리를 지켜!
+/e 
+
+/s
+Hold your ground!
+/t
+현 위치를 사수하라!
+/e
+
+/s
+Hold in place!
+/t
+위치를 사수하라!
+/e
+
+/s
+Hold in place!
+/t 
+자리를 지켜!
+/e 
+
+/s
+Maintain your position!
+/t 
+현 위치를 사수하라!
+/e
+
+/s
+Harvey Nottoway 
+1892 - 1918
+/t 
+하비 노토웨이 
+1892 - 1918 
+/e 
+
+/s 
+We came from all over the world, so many of us thinking this war would be our rite of passage, our great adventure.
+/t 
+전 세계에서 온 우리는 이 전쟁이 그저 통과 의례나 모험 쯤이라고 여겼다
+/e
+
+/s 
+Let me tell you, it was no adventure.
+/t 
+내 말해주지, 이건 무슨 모험 같은 것이 아냐
+	
+/s
+Let her sing! Pump 'em full of lead!
+/t 
+기관총을 갈겨! 총알을 다 박아넣어!
+/e 
+
+/s
+Watch that left side!
+/t 
+좌측에 적이야!
+/e
+
+/s 
+Airship incoming!
+/t 
+비행선 출현! 
+/e 
+	
+/s
+More coming in on the right!
+/t 
+우측에 몰려온다!
+/e 
+
+/s 
+Open fire! Keep shooting!
+/t 
+멈추지마! 계속 쏴! 
+/e 
+
+/s 
+Shiiiiiit! Shiiiiit!
+/t 
+제기랄! 젠장!
+/e 
+
+/s 
+They're getting through. rally at the church, we have to hold there!
+/t 
+적들이 몰려온다! 교회로 집결하라, 우리가 사수해야한다!
+/e 
+
+/s 
+They're coming from all sides!
+/t 
+사방에서 적이 몰려온다!
+/e
+
+/s 
+The windows!
+/t 
+창문에 있어! 
+/e
+
+/s 
+Watch the windows!
+/t 
+창문을 주시해!
+/e 
+
+/s 
+Watch behind you!
+/t 
+뒤에 적이야!
+/e 
+
+/s 
+They're everywhere!
+/t 
+사방에 적이야!
+/e 
+
+/s 
+Coming in through the window!
+/t 
+창을 넘어 들어온다!
+/e 
+
+/s 
+James Johnson 
+1889 - 1918 
+/t 
+제임스 존슨 
+1889 - 1918
+/e 
+
+/s 
+New killing machines, like the tank, changed the shape of the war overnight.
+Luckily they were mostly on our side, mostly.
+/t 
+전차 같은 새로운 살인 기계가 전쟁의 양상을 하룻밤에 바꿔놓았지.
+다행히도 대부분은 우리 편이였어, 대부분은...
+/e 
+
+/s 
+Our boys in the church are overrun, we need to push through!
+/t 
+교회가 점령당했다! 우리가 뚫고 지나가야 한다!
+/e 
+
+/s 
+PBI are counting on us!
+/t 
+보병들이 우릴 믿고 있다
+/e 
+
+/s 
+Use that Emma Gee! Sweep the ground!
+/t 
+기관총으로 적들을 쓸어버려!
+/e 
+
+/s 
+Keep going, driver!
+/t 
+계속 나아가, 운전병!
+/e 
+
+/s 
+That's our flyboys up there!
+/t 
+아군 비행기가 보인다!
+/e 
+
+/s 
+Keep your eyes on the ground, son!
+/t 
+지상에나 집중하라!
+/e 
+
+/s 
+They're moving in from the trenches!
+/t 
+참호에서 적들이 접근해온다!
+/e 
+
+/s 
+Use that machine gun! Mow them down!
+/t 
+기관총으로 적들을 쓸어버려!
+/e
+
+/s 
+We've got them on the run! Push on!
+/t 
+적들이 후퇴한다! 계속 밀어붙여!
+/e 
+
+/s 
+Forward! For the King and Country!
+/t 
+돌격! 왕과 조국을 위하여!
+/e 
+
+/s 
+We'll chase Fritz all the way back to Berlin!
+/t
+독일놈들을 베를린까지 몰고 가보자!
+/e 
+
+/s 
+Incoming!
+/t 
+포격!
+/e 
+
+/s 
+Field gun took her apart!
+/t 
+아군이 야포에 당했다!
+/e 
+
+/s 
+We're just a big fat target for that thing!
+/t 
+우린 여기서 그저 더럽게 큰 과녁일뿐이잖아!
+/e 
+
+/s 
+Move driver! Go around!
+/t 
+움직여! 우회해서 이동해!
+/e 
+
+/s 
+If you get a clear shot on that blasted field gun you take it!
+/t 
+야포를 처리할 수 있다면, 없애버려!
+/e
+
+/s 
+Hold on! We're pushing through!
+/t 
+버텨라 제군들! 우리는 뚫고 진격한다!
+/e 
+
+/s
+There on the left!
+/t 
+왼쪽에 적이야!
+/e 
+
+/s 
+Left side! Frield gun!
+/t
+좌측에 야포!
+/e 
+
+/s 
+Shoot that field gun damnit!!!
+/t 
+저 지랄맞은 야포를 쏴버려!!!
+/e
+
+/s 
+Good job!
+/t 
+잘했어!
+/e 
+
+/s 
+Lets open a path for our lads!
+/t 
+전우들을 위해 길을 터주자!
+/e 
+
+/s 
+Move up with the rest of the armor!
+/t 
+나머지 부대와 함께 전진해!
+/e 
+
+
+/s 
+Stay focused men!
+/t
+집중하라 제군들!
+/e
+
+/s 
+Push on damnit!
+/t 
+밀어붙이라고!
+/e 
+
+/s 
+We're almost through. Fire at anything that moves!
+/t 
+거의 다 왔어. 움직이는 모든 것들은 전부 쏴버려!
+/e 
+
+/s 
+We're gonna make it!
+/t 
+우린 해낼꺼야!
+/e
+
+/s 
+Shit!
+/t 
+썅!
+/e 
+
+/s 
+Incoming!
+/t 
+조심해!
+/e 
+
+/s 
+Clifford O'sullivan 
+1885 - 1918
+/t 
+클리포드 오'설리반
+1885 - 1918
+/e 
+
+/s 
+Instead of adventure we found fear, and in war the only true equalizer is death.
+/t 
+모험 대신 우리가 찾은 건 두려움이었고, 전쟁에서 공평하게 찾아온 것은 죽음뿐이었다.
+/e 
+
+/s 
+NEW OBJECTIVE
+
+HOLD AT ALL COSTS
+/t 
+새로운 목표
+
+어떠한 방법으로든 이곳을 방어해라 
+/e 
+
+/s 
+Airship coming down!
+/t 
+비행선이 추락한다!
+/e 
+
+/s 
+Virgil White 
+1900 - 1918
+/t 
+버질 화이트 
+1900 - 1918 
+/e 
+
+/s
+Charge!
+/t 
+돌격!
+/e 
+
+/s
+Reuben Berry
+1899 - 1918
+/t 
+루벤 베리 
+1899 - 1918
+/e 
+
+/s 
+Run them through!
+/t 
+놈들을 뚫고 지나가!
+/e 
+
+/s 
+Maurice Harris 
+1897 - 1918
+/t 
+모리스 해리스 
+1897 - 1918
+/e 
+
+/s 
+Artillery!
+/t 
+포격!
+/e 
+
+/s 
+Get down!
+/t 
+엎드려!
+/e  
+
+/s 
+They push-we push.
+/t 
+그들은 밀어붙였고, 우리도 밀어붙였다.
+/e 
+
+/s 
+Every once in a while, we push hard enough that the light breaks through the clouds-
+/t 
+가끔씩, 우리가 강하게 밀어붙이면 빛이 구름을 뚫고, 
+/e 
+
+/s
+Battlefield 1 is based upon events that
+unfolded over one 	hundred years ago.
+/t
+배틀필드 1은 백 년 전의 역사적 사건을 기반으로 하고 있습니다.
+/e
+
+/s
+More than 60 million soldiers fought in "The War to End All Wars".
+
+It ended nothing.
+/t
+"모든 전쟁을 끝내기 위한 전쟁"에 6천만 이상의 병사가 참전했지만, 아무것도 끝내지 못했습니다. 
+/e
+
+/s
+Yet it changed the world forever.
+/t
+그러나 그것은 세상을 영원히 바꿔 놓았습니다.
+/e
+
+/s
+What follows is frontline combat.
+
+You are not expected to survive.
+/t
+이제 당신은 최전선 전투를 경험합니다. 당신은 살아남을 수 없습니다.
+/e
+
+/s
+We're surrounded!
+/t
+우린 포위됐어!
+/e
+
+/s 
+We have to hold this line!
+/t
+전선을 사수해야 돼!
+/e
+
+/s
+They're coming!
+/t
+적들이 몰려온다!
+/e
+
+/s 
+Here they come! Fire at will!
+/t 
+몰려오고 있다! 모두 쏴버려!
+/e 
+
+/s
+Maintain your position!
+/t
+위치를 사수하라!
+/e
+
+/s
+Stand fast!
+/t
+지켜라!
+/e
+
+/s 
+Hold, me!
+/t 
+자리를 지켜!
+/e 
+
+/s
+Hold your ground!
+/t
+현 위치를 사수하라!
+/e
+
+/s
+Hold in place!
+/t
+위치를 사수하라!
+/e
+
+/s
+Hold in place!
+/t 
+자리를 지켜!
+/e 
+
+/s
+Maintain your position!
+/t 
+현 위치를 사수하라!
+/e
+
+/s
+Harvey Nottoway 
+1892 - 1918
+/t 
+하비 노토웨이 
+1892 - 1918 
+/e 
+
+/s 
+We came from all over the world, so many of us thinking this war would be our rite of passage, our great adventure.
+/t 
+전 세계에서 온 우리는 이 전쟁이 그저 우리의 모험의 통과 의례쯤이라고 여겼지.
+/e
+
+/s 
+Let me tell you, it was no adventure.
+/t 
+그러나 하나 말해주지, 이건 모험이 아니야.
+
+/s
+Let her sing! Pump 'em full of lead!
+/t 
+적들한테 갈겨버려! 총알을 대가리에 박아버려!
+/e 
+
+/s
+Watch that left side!
+/t 
+좌측에 적이야!
+/e
+
+/s 
+Airship incoming!
+/t 
+비행선 출현! 
+/e 
+	
+/s
+More coming in on the right!
+/t 
+우측에 몰려온다!
+/e 
+
+/s 
+Open fire! Keep shooting!
+/t 
+멈추지마! 계속 쏴! 
+/e 
+
+/s 
+Shiiiiiit! Shiiiiit!
+/t 
+제기랄! 젠장!
+/e 
+
+/s 
+They're getting through. rally at the church, we have to hold there!
+/t 
+적들이 몰려온다! 교회로 집결하라, 우리는 그곳을 사수해야한다!
+/e 
+
+/s 
+They're coming from all sides!
+/t 
+사방에 적이 몰려온다!
+/e
+
+/s 
+The windows!
+/t 
+창문에 있어! 
+/e
+
+/s 
+Watch the windows!
+/t 
+창문을 주시해!
+/e 
+
+/s 
+Watch behind you!
+/t 
+뒤에 적이야!
+/e 
+
+/s 
+They're everywhere!
+/t 
+사방에 적이야!
+/e 
+
+/s 
+Coming in through the window!
+/t 
+창을 넘어 들어온다!
+/e 
+
+/s 
+James Johnson 
+1889 - 1918 
+/t 
+제임스 존슨 
+1889 - 1918
+/e 
+
+/s 
+New killing machines, like the tank, changed the shape of the war overnight.
+Luckily they were mostly on our side, mostly.
+/t 
+전차 같은 새로운 살인 기계가 전쟁의 양상을 뒤바꿔놓았지.
+다행히도 대부분은 우리 편이였어, 대부분은...
+/e 
+
+/s 
+Our boys in the church are overrun, we need to push through!
+/t 
+교회가 점령당했다! 우리가 뚫고 지나가야 한다!
+/e 
+
+/s 
+PBI are counting on us!
+/t 
+불쌍한 보병들이 우리를 기대하고 있다!
+/e 
+
+/s 
+Use that Emma Gee! Sweep the ground!
+/t 
+기관총으로 적들을 쓸어버려!
+/e 
+
+/s 
+Keep going, driver!
+/t 
+계속 나아가, 운전병!
+/e 
+
+/s 
+That's our flyboys up there!
+/t 
+아군 비행기가 보인다!
+/e 
+
+/s 
+Keep your eyes on the ground, son!
+/t 
+지상에나 집중하라!
+/e 
+
+/s 
+They're moving in from the trenches!
+/t 
+참호에서 적들이 접근해온다!
+/e 
+
+/s 
+Use that machine gun! Mow them down!
+/t 
+기관총으로 적들을 쓸어버려!
+/e
+
+/s 
+We've got them on the run! Push on!
+/t 
+적들이 후퇴한다! 계속 밀어붙여!
+/e 
+
+/s 
+Forward! For the King and Country!
+/t 
+돌격! 왕과 조국을 위하여!
+/e 
+
+/s 
+We'll chase Fritz all the way back to Berlin!
+/t
+우리는 독일놈들을 베를린까지 몰아간다!
+/e 
+
+/s 
+Incoming!
+/t 
+포격!
+/e 
+
+/s 
+Field gun took her apart!
+/t 
+아군이 야포에 당했다!
+/e 
+
+/s 
+We're just a big fat target for that thing!
+/t 
+우린 여기서 그저 더럽게 큰 과녁일뿐이잖아!
+/e 
+
+/s 
+Move driver! Go around!
+/t 
+움직여! 우회해서 이동해!
+/e 
+
+/s 
+If you get a clear shot on that blasted field gun you take it!
+/t 
+야포를 처리할 수 있다면, 없애버려!
+/e
+
+/s 
+Hold on! We're pushing through!
+/t 
+버텨라 제군들! 우리는 뚫고 진격한다!
+/e 
+
+/s
+There on the left!
+/t 
+왼쪽에 적이야!
+/e 
+
+/s 
+Left side! Frield gun!
+/t
+좌측에 야포!
+/e 
+
+/s 
+Shoot that field gun damnit!!!
+/t 
+저 지랄맞은 야포를 쏴버려!!!
+/e
+
+/s 
+Good job!
+/t 
+잘했어!
+/e 
+
+/s 
+Lets open a path for our lads!
+/t 
+전우들을 위해 길을 터주자!
+/e 
+
+/s 
+Move up with the rest of the armor!
+/t 
+나머지 부대와 함께 전진해!
+/e 
+
+
+/s 
+Stay focused men!
+/t
+집중하라 제군들!
+/e
+
+/s 
+Push on damnit!
+/t 
+밀어붙이라고!
+/e 
+
+/s 
+We're almost through. Fire at anything that moves!
+/t 
+거의 다 왔어. 움직이는 모든 것들은 전부 쏴버려!
+/e 
+
+/s 
+We're gonna make it!
+/t 
+우린 해낼꺼야!
+/e
+
+/s 
+Shit!
+/t 
+썅!
+/e 
+
+/s 
+Incoming!
+/t 
+조심해!
+/e 
+
+/s 
+Clifford O'sullivan 
+1885 - 1918
+/t 
+클리포드 오'설리반
+1885 - 1918
+/e 
+
+/s 
+Instead of adventure we found fear, and in war the only true equalizer is death.
+/t 
+모험 대신 우리가 찾은 건 두려움이었고, 전쟁에서 공평하게 찾아온 것은 죽음뿐이었다.
+/e 
+
+/s 
+NEW OBJECTIVE
+
+HOLD AT ALL COSTS
+/t 
+새로운 목표
+
+어떠한 방법으로든 이곳을 방어해라 
+/e 
+
+/s 
+Airship coming down!
+/t 
+비행선이 추락한다!
+/e 
+
+/s 
+Virgil White 
+1900 - 1918
+/t 
+버질 화이트 
+1900 - 1918 
+/e 
+
+/s
+Charge!
+/t 
+돌격!
+/e 
+
+/s
+Reuben Berry
+1899 - 1918
+/t 
+루벤 베리 
+1899 - 1918
+/e 
+
+/s 
+Run them through!
+/t 
+그들을 뚫고 지나가!
+/e 
+
+/s 
+Maurice Harris 
+1897 - 1918
+/t 
+모리스 해리스 
+1897 - 1918
+/e 
+
+/s 
+Artillery!
+/t 
+포격!
+/e 
+
+/s 
+Get down!
+/t 
+모두 업드려!
+/e  
+
+/s 
+They push-we push.
+/t 
+그들은 밀어붙였고, 우리도 밀어붙였다.
+/e 
+
+/s 
+Every once in a while, we push hard enough that the light breaks through the clouds-
+/t 
+가끔씩, 우리가 강하게 밀어붙이면 빛이 구름을 뚫고, 
+/e 
+
+/s 
+-so the world beyond the war glimmers-
+/t 
+전쟁 너머의 세계에서 어렴풋이 빛난다.
+/e 
+
+/s 
+-just out of the reach.
+/t 
+바로 손 닿지 않을 곳에서...
+/e 
+
+/s 
+The war is the world and the world is the war.
+/t 
+전쟁은 세상이고 세상은 전쟁이다.
+/e 
+
+/s 
+But behind every gunsight is a human being
+/t 
+하지만 모든 총구 뒤에는, 사람이 있다.
+/e 
+
+/s 
+We are those people.
+/t
+우리가 바로 그들이다.
+/e 
+
+/s 
+We are the jaded and we are the naive.
+/t
+우리는 노련한 자이며, 미숙한 자이다.
+
+/e
+
+/s 
+We are the honorable and the criminal.
+/t 
+우리는 명예로운 자이며, 범죄자이다.
+/e 
+
+/s 
+We are the bound-for-legend and we are the lost-to-history.
+/t 
+우리는 전설로 기록될 자이며, 역사에서 잊혀진 자이다
+/e 
+
+/s 
+We are the knights of the sky, the ghosts in the dessert, and the rats in the mud.
+/t
+우리는 하늘의 기사, 사막의 유령이자, 진흙 속의 들쥐이다.
+/e 
+
+/s 
+These are our stories.
+/t 
+이것은, 바로 우리들의 이야기다.
+/e 
+
+
+/s
+RIBECOURT, FRANCE, FALL 1918.
+
+It is late in the war.
+/t 
+1918년 가을 프랑스의 리베코트. 
+
+때는 전쟁의 막바지
+/e 
+
+/s 
+As winter draws in, the Germans fortify their lines and dare the enemy to come to them.
+/t 
+겨울이 다가오자, 독일군은 전선을 확고히 하고 적이 오기만을 기다렸다.
+/e 
+
+/s 
+Waves of infantry die crashing against German concrete. The maps do not change.
+/t 
+독일 방어선에 수많은 보병들이 죽어나갔지만, 전선은 바뀌지 않았다.
+/e 
+
+/s
+Heavily-armed and well-protected, the British Mark.V tank is a fearsome war machine.
+It clears trenchs. It destroys barbed wire. The tank can break through.
+/t 
+중무장한 영국의 마크. V 탱크는 공포의 전쟁 기계다.
+참호를 쓸어버리고 철조망을 부순다. 탱크라면 돌파할 수 있다
+/e 
+
+/s 
+On October 17, British forces prepare for a mass assault on the town of Cambrai.
+With tank support, Allied Command believes a breakthrough is a certainty.
+/t 
+10월 17일, 영국군은 캉브레 대공세를 준비한다. 탱크의 지원으로, 연합군 사령부는 돌파를 확신한다.	
+/e 
+
+/s 
+But the Mark.V tank has one major flaw: it is not reliable.
+/t 
+그러나 Mark. V 탱크는 한가지 큰 결점이 있다: 바로 신뢰성이 부족하다
+/e 
+
+/s 
+Edwards!
+/t 
+에드워즈!
+/e 
+
+/s 
+Sir.
+/t 
+전차장님!
+/e 
+
+/s 
+Townsend. Come on, you'll miss all the fun.
+/t 
+타운센드라 불러. 이러다가 재미 볼 거 다 놓치겠다.
+
+/e 
+
+/s 
+Fire!
+/t 
+발사!
+/e 
+
+/s 
+I been looking at your papers.
+/t 
+네 서류를 봤어.
+/e 
+
+/s 
+Don't worry about me, Sir. I'm ready to do my bit for King and country.
+/t 
+제 걱정은 하지 마십시오. 국가를 위해 제 몫을 할 준비가 됐습니다.
+/e 
+
+/s 
+Listen, son. You find forward and reverse when you're told and you'll do alright for me.
+/t 
+잘 들어, 내 명령에만 제대로 따른다면 나는 아무 상관없다
+/e 
+
+/s 
+Grab those, would ya?
+/t 
+그것 좀 들어주겠나?
+/e 
+
+/s 
+And come and meet Big Bess. Woman of your dream.
+/t 
+여기 '빅 베스'를 만나보게나. 꿈 속의 여인이지.
+/e 
+
+/s 
+Found our new driver, boys.
+/t 
+신참 운전병이다 제군들.
+/e 
+
+/s 
+THROUGH MUD AND BLOOD
+/t 
+진흙과 피를 지나며
+/e 
+
+/s 
+Ah, bloody-
+/t 
+악! 제기랄...
+/e 
+
+/s 
+Whoa, whoa, whoa, no, no, no, no, no, no, no. Don't swear.
+/t 
+워, 워, 워, 안돼! 안돼! 안돼! 욕은 하지 마.
+/e 
+
+/s 
+She does not like it when you swear.
+/t 
+베스가 욕하는 걸 별로 좋아하지 않거든.
+/e 
+
+/s 
+Finch.
+/t 
+핀치야.
+/e 
+
+/s 
+Edwards.
+/t 
+에드워즈.
+/e 
+
+/s 
+You ain't done this before?
+/t 
+이거 처음이지?
+/e 
+
+/s 
+Done what before?
+/t 
+뭐가 처음이야!
+/e 
+
+/s 
+Mind your business, McManus.
+/t 
+여기 일은 신경꺼, 맥매너스
+/e 
+
+/s 
+Listen, don't worry, she'll look after you, yeah?
+/t 
+걱정하지 마, 베스가 잘 돌봐줄 거야.
+/e 
+
+/s 
+Alright boys. This is the big one.
+/t 
+좋아 제군들. 이번 건은 크다.
+/e 
+
+/s 
+Our orders are to punch through the German line-
+/t 
+이번 명령은 독일 전선을 뚫으며,
+/e 
+
+/s 
+-destroying artillery positions as we go. Finch.
+/t 
+적의 포대를 파괴하는 것이다. 핀치.
+/e 
+
+/s 
+Yes, sir.
+/t 
+알겠습니다.
+/e 
+
+/s 
+After that, we'll advance on the French town of Cambrai-
+/t 
+진격 후, 우리는 프랑스의 캉브레로 진입한다.
+/e 
+
+/s 
+Where I have been assured there is wine, women, and song. So you should enjoy that.
+/t 
+캉브레엔 술, 여자, 노래가 기다리고 있을거라 하니 모두 즐기길 바란다.
+/e 
+
+/s 
+Ha. McManus won't
+/t 
+하. 맥매너스는 못하지
+/e 
+
+/s 
+Jesus, are we safe hands or what, boys?
+/t 
+맙소사, 이거 믿을만한 놈이야 뭐야!  
+/e 
+
+/s 
+Alright, McManus.
+/t 
+괜찮다 맥매너스.
+/e 
+
+/s 
+Remember, boys-do your jobs.
+/t 
+명심해라 제군들, 자기 임무를 충실히 하고.
+/e 
+
+/s 
+Take care of each other and Big Bess will take care of you.
+/t 
+서로를 잘 챙긴다면, 베스가 우리를 지켜줄 것이다.
+/e 
+
+/s 
+May the Lord have mercy on our souls.
+/t 
+신의 가호가 함께 하길...
+/e 
+
+/s 
+We'll get through this together. Right, Edwards?
+/t 
+전부 같이 하는거다, 그렇지 에드워즈?
+/e 
+
+/s 
+Right, sir.
+/t 
+맞습니다.
+/e 
+
+/s 
+Full ahead, driver!
+/t 
+전진하라! 운전병!
+/e 
+
+/s 
+McManus: That damn bird is shedding.
+/t 
+맥매너스: 저 지랄 맞은 비둘기 때문에 털 날려.
+/e 
+
+/s 
+Finch: Moulting, McManus. Birds moult.
+/t 
+핀치: 털갈이를 하는 거야.
+/e  
+
+/s 
+McManus: I'll pluck every feather off that damn-
+/t 
+맥매너스: 저 망할 깃털을 하나하나를 다 뽑아버릴 거야.
+/e 
+
+/s 
+Townsend: Easy there, that pigeon could save your life. It's our only line of communication.
+/t 
+타운센드: 진정해, 저 비둘기가 너의 생명줄일 수도 있어. 우리의 유일한 통신 수단이지.
+/e 
+
+/s 
+Finch: You good up there, Edwards?
+/t 
+핀치: 잘 돼가고 있지 에드워즈?
+/e 
+
+/s 
+Edwards: Yes. Starting to get the hang of it.
+/t 
+에드워즈: 그래. 이제 슬슬 익숙해지기 시작해.
+/e 
+
+/s 
+Finch: What did you do back home?
+/t 
+핀치: 고향에서는 무슨 일을 했어?
+/e 
+
+/s
+Edwards: Drove. A car. I was a chauffeur.
+/t 
+에드워즈: 운전을 했어. 한때 기사였지.
+/e 
+
+/s 
+Townsend: All stop! This is far enough. Infantry'll go on the first whistle, then we follow.
+/t 
+타운센드: 정지! 이 정도면 충분하다. 보병이 앞장서고 휘슬이 들리면 우리가 뒤를 따른다.
+/e 
+
+/s 
+Finch: Heavens above... You ever seen anything like this?
+/t 
+핀치: 세상에... 이런 거 본 적이 있어?
+/e 
+
+/s 
+McManus: I have, I'm sorry to say.
+/t 
+맥매너스: 유감이지만 있지.
+/e 
+
+/s 
+Townsend: Listen. We're going to cut down the guns up by that windmill.
+/t 
+타운센드: 잘 들어. 우리는 풍차 주위에 있는 야포를 처리할 것이다.
+/e 
+
+/s 
+Townsend: Give our boys some room!
+/t 
+타운센드: 보병에게 길을 내주어라!
+/e 
+
+/s 
+NEW OBJECTIVE
+
+CAPTURE PICCADILLY MILL
+/t 
+새로운 목표
+
+피카딜리 제분소를 점령하라
+/e 
+
+/s 
+Townsend: That's our cue! Full ahead!
+/t 
+타운센드: 우리 차례다! 전진하라!
+/e 
+
+/s 
+Townsend: See that tank, Edwards? Don't get us stuck in the muck like that.
+/t 
+타운센드: 앞에 탱크 보이지 에드워즈? 저렇게 수렁에 빠지면 안 돼.
+/e 
+
+/s 
+Edwards: They got one of ours!
+/t 
+에드워즈: 아군 탱크가 당했다!
+/e 
+
+/s 
+Townsend: Eyes front! Drive!
+/t 
+타운센드: 전방 주시! 운전해!
+/e 
+
+/s
+Finch: Blown to kingdom come!
+/t 
+핀치: 완전히 날아갔어!
+/e 
+
+/s 
+Townsend: Keep your eyes peeled for more of those guns, lads.
+/t 
+타운센드: 모두 야포에 집중하라 제군들.
+/e 
+
+/s
+Finch: She's still purrring!
+/t 
+핀치: 공격받고 있어!
+/e 
+
+/s 
+Finch: Field gun!
+/t 
+핀치: 야포!
+/e 
+
+/s
+Townsend: Move and get a clear shot of those field guns!
+/t 
+타운센드: 야포를 타격하기 좋은 위치로 이동해!
+/e 
+
+/s 
+Pritchard: I'd appreciate not being a target, new boy!
+/t 
+프리처드: 타깃이 안되도록 해줬으면 좋겠어 신참!
+/e
+
+/s 
+McManus: Those field guns are shredding our outfit!
+/t 
+맥매너스: 저 야포가 우리 부대를 박살 내고 있어!
+/e 
+
+/s 
+Townsend: Look for where that shot came from, then let them have it!
+/t 
+타운센드: 포탄이 어디서 날아왔는지 찾아내서 처리해버려!
+/e 
+
+/s 
+Townsend: Those machine guns are holding our lads back!
+/t
+타운센드: 저 기관총이 보병들의 전진을 지연시킨다!
+/e 
+
+/s 
+McManus: Grenade!
+/t
+맥매너스: 수류탄!
+/e 
+
+/s 
+Pritchard: Jerry's not muckin' about!
+/t 
+프리처드: 저 망할 독일 놈들의 공세가 심해!
+/e 
+
+/s 
+McManus: Hey Finch, did you see that one?!
+/t
+맥매너스: 이봐 핀치! 저거 본적 있어?!
+/e 
+
+/s 
+Townsend: We're moving slow! Finch, what's the matter?
+/t
+타운센드: 전진이 느려지고 있다! 핀치, 문제가 뭔가?
+/e 
+
+/s 
+Finch: Engine's fine sir, it's the mud!
+/t 
+핀치: 엔진은 이상 없습니다만, 진흙 때문에 전진이 느려지고 있습니다.
+/e 
+
+/s 
+Townsend: Hold her here and help our boys move!
+/t
+타운센드: 이곳에서 대기하고 보병들의 전진을 돕는다!
+/e 
+
+/s 
+Townsend: Hold position here. Clean out all the German guns!
+/t
+타운센드: 이곳을 사수하라. 모든 독일군들을 싹 쓸어버려!
+/e 
+
+/s 
+Finch: Come on! The Fritz don't give up unless we force 'em!
+/t
+핀치: 어서! 독일 놈들은 그렇게 쉽게 포기할 놈들이 아니야!
+/e 
+
+/s
+Pritchard: Should I give the bird some rum? It's having a right to-do
+/t
+새한테 술 좀 줄까? 그럴 자격있잖아
+프리처드:
+/e 
+/s
+Townsend: Don't mess with the pigeon, Pritchard. It's our only link back to headquarters.
+/t
+비둘기는 건드리지 마라, 프리처드. 본부와 연락할 수단은 비둘기 뿐이야.
+/s 
+Pritchard: Boys are moving up!
+/t
+프리처드: 보병들이 전진하고 있다!
+/e 
+
+/s 
+Townsend: Continue supressing fire! Keep them on their heels!
+/t
+타운센드: 계속 제압사격해! 계속 그들을 묶어놔!
+/e 
+
+/s
+Pritchard: Fritz is on the retreat!
+/t
+프리처드: 독일 놈들이 후퇴한다!
+/e 
+
+/s 
+Townsend: That's it! Hold and keep them suppressed.
+/t
+타운센드: 그렇지! 계속 사격해!
+/e 
+
+/s 
+Finch: We are righteous men!
+/t 
+핀치: 우리가 해냈어!
+/e 
+
+/s 
+Townsend: Good job, lads. Now we take the next trench line.
+/t
+타운센드: 잘했어 제군들. 이제 우리는 다음 참호로 전진한다.
+/e 
+
+/s 
+NEW OBJECTIVE
+
+CAPTURE KITCHENER'S RIDGE
+/t 
+새로운 목표
+
+능선을 확보하라
+/e 
+
+/s 
+McManus: Field gun clear!
+/t
+맥매너스: 야포가 파괴됐다!
+/e 
+
+/s 
+Finch: Good shot!
+/t 
+핀치: 잘했어!
+/e 
+
+/s 
+Townsend: One less Emma Gee!
+/t 
+타운센드: 기관총 하나 남았어!
+/e 
+
+/s 
+Townsend: One more down!
+/t
+타운센드: 하나가 더 쓰러졌어!
+/e 
+
+/s 
+Pritchard: Field gun down!
+/t 
+프리처드: 야포 파괴!
+/e 
+
+/s
+Hint
+Mud will slow tank, making you an easy target for enemy artillery.
+/t
+정보
+진흙은 탱크의 전진을 늦춰 적의 타깃이 되기 쉽습니다.
+/e 
+
+/s 
+Townsend: Move out of the Mud!
+/t 
+타운센드: 어서 진흙에서 빠져나와!
+/e 
+
+/s 
+Townsend: Get us to that second trench line!
+/t 
+타운센드: 두 번째 참호선으로 전진해!
+/e 
+
+/s 
+Townsend: Keep pushing, boys!
+/t
+타운센드: 계속 밀어붙여 제군들!
+/e 
+
+/s 
+Finch: Nice work, we're showing 'em lads!
+/t 
+핀치: 잘했어! 우리가 그들에게 좋은 모습을 보여주고 있어!
+/e 
+
+/s 
+Pritchard: There's a field gun!
+/t 
+프리처드: 저기 야포가 있어!
+/e 
+
+/s 
+OBJECTIVE COMPLETE
+/t 
+목표 완수
+/e 
+
+/s 
+Finch: For King and country lads!
+/t 
+핀치: 왕과 조국을 위하여!
+/e 
+
+/s 
+Townsend: Good job! But remember, the day's still young.
+/t 
+타운센드: 훌륭하다! 그러나 아직 한참 남았어.
+/e 
+ 
+/s
+Townsend: We're heading for the ruins. Clearing a path for the infantry.
+/t 
+타운센드: 우리는 폐허지로 이동한다. 보병들을 위해 길을 뚫어라.
+/e 
+
+/s 
+McManus: Field gun! Go! Go!
+/t 
+맥매너스: 전방에 야포! 어서 움직여! 움직여!
+/e 
+
+/s 
+NEW OBJECTIVE
+
+CAPTURE BEREN'S CROSSING
+/t 
+새로운 목표 
+
+교차 지점을 점령하라 
+/e 
+
+/s 
+Pritchard: Field gun there!
+/t 
+프리처드: 앞에 야포야!
+/e 
+
+/s 
+McManus: Watch that gun!
+/t 
+맥매너스: 야포를 조심해!
+/e 
+
+/s 
+McManus: Wipe out the field gun crew!
+/t 
+맥매너스: 야포들을 전부 쓸어버려!
+/e 
+
+/s 
+McManus: Armor can only take so much, new boy!
+/t 
+맥매너스: 장갑이 무적은 아니라고 신참!
+/e 
+
+/s 
+Townsend: Got it!
+/t 
+타운센드: 잡았어!
+/e 
+
+/s 
+Pritchard: Cannon's gonna slow us down. Hit it!
+/t 
+프리처드: 야포가 우리의 전진을 늦추고 있어. 쏴버려!
+/e 
+
+/s 
+Townsend: Hold this position! Mop up the remaining Jerries!
+/t 
+타운센드: 위치를 사수하라! 나머지 독일군 놈들을 처리해!
+/e 
+
+/s 
+Pritchard: We got it!
+/t  
+프리처드: 우리가 해냈어!
+/e 
+
+/s 
+Pritchard: That's a hit!
+/t 
+프리처드: 명중이야!
+/e 
+
+/s 
+Townsend: The trench line up on the ridge, driver!
+/t 
+타운센드: 참호선이 바로 앞이야 운전병!
+/e 
+
+/s 
+Edwards: Sturmpanzer closing in!
+/t 
+에드워즈: 돌격전차 접근 중!
+/e 
+
+/s 
+Townsend: That landship'll rip our boys apart! Edwards, get us in! Gunners, go for the soft spots!
+/t 
+타운센드: 저 탱크가 보병들을 다 가루로 만들거야! 애드워즈, 안으로 들어가! 사수, 약점을 노려!
+/e 
+
+/s 
+Finch: That one left a dent!
+/t 
+핀치: 왼쪽이 살짝 찌그러 졌다!
+/e 
+
+/s 
+Finch: Clear the last of them!
+/t
+핀치: 잔류병들을 모조리 처리해!
+/e
+
+/s 
+Pritchard: We got them!
+/t 
+프리처드: 좋았어!
+/e 
+
+/s 
+McManus: They are messing with the wrong crew!
+/t 
+맥매너스: 너흰 딱 걸렸어!
+/e 
+
+/s 
+Townsend: Come on, Edwards! Our lads need our support to take the second trench line!
+/t 
+타운센드: 에드워즈 어서! 우리의 지원이 있어야 보병들이 두 번째 참호선으로 이동할 수 있어!
+/e 
+
+/s 
+Townsend: Hit that gun and move!
+/t 
+타운센드: 빨리 움직여!
+/e 
+
+/s 
+OBJECTIVE COMPLETE
+/t 
+임무 완수
+/e 
+
+/s 
+Finch: We managed to move up!
+/t 
+핀치: 전진해야 해!
+/e 
+
+/s 
+Townsend: Great work, lads! Time to move on!
+/t 
+타운센드: 잘했어다 제군들! 이제 진격할 시간이다!
+/e 
+
+/s 
+Pritchard: Heavies are raining fire!
+/t 
+프리처드: 포격이 날아온다!
+/e 
+
+/s 
+McManus: Heads down!
+/t
+맥매너스: 모두 엎드려!
+/e 
+
+/s 
+Edwards: Throttle's dead! I can't move her!
+/t 
+에드워즈: 스로틀 고장! 이동 불가!
+/e 
+
+/s 
+Townsend: Finch! I need you out there to take look!
+/t 
+타운센드: 핀치! 나가서 살펴보도록!
+/e 
+
+/s 
+McManus: Watch your arse, Finchy!
+/t 
+맥매너스: 조심하라고 핀치!
+/e 
+
+/s 
+Townsend: Edwards, get on and lend him a hand.
+/t 
+타운센드: 에드워즈, 핀치를 도와줘!
+/e 
+
+/s 
+Okay.
+/t 
+좋아...
+/e 
+ 
+/s 
+Yes, Edwards.
+/t 
+에드워즈.
+/e 
+
+/s 
+Edwards! You good?
+/t 
+에드워즈! 괜찮은거지?
+/e 
+
+/s
+You sure?
+/t 
+진짜로?
+/e 
+
+/s 
+Yes.
+/t 
+당연하지.
+
+/s
+Finch! Get us moving!
+/t 
+핀치! 시간이 없어! 서둘러!
+/e 
+
+/s 
+Finch is gone!
+/t 
+핀치가 쓰러졌다!
+/e 
+
+/s 
+Townsend: Keep it together, lads! Just get us moving!
+/t 
+타운센드: 정신차려 제군들! 빨리 이동해야해!
+/e 
+
+/s 
+Townsend: Edwards! Get her fixed and get back in here!
+/t 
+타운센드: 에드워즈! 어서 고치고 다시 들어와!
+/e 
+
+/s 
+NEW OBJECTIVE
+
+DESTROY ENEMY ARTILLERY
+/t 
+새로운 목표
+
+적의 야포를 파괴해라
+/e 
+
+/s 
+HINT
+The Repair Tool is essential part of the engineer's toolkit. Repair from inside for a quick patch-up job.
+/t 
+정보
+수리 도구는 엔지니어의 연장 도구 중 필수품입니다. 빠른 수리를 위해서는 긴급 수리를 하십시오.
+/e 
+
+/s 
+Townsend: Get a move on, driver!
+/t 
+타운센드: 어서 움직여 운전병!
+/e 
+
+/s 
+McManus: We've took on a damn Jonah and now Finchy's go!
+/t 
+맥매너스: 전에는 조나가 가더니 이제는 핀치까지 떠나버렸어!
+/e 
+
+/s 
+Townsend: McManus! Pull yourself together!
+/t 
+타운센드: 맥매너스! 정신 바짝 챙겨!
+/e 
+
+/s 
+Townsend: Get us to that village, driver. Their artillery's hold up there.
+/t 
+타운센드: 마을까지 이동하라. 독일군의 야포는 그곳에 있다.
+/e 
+
+/s 
+Pritchard: We got it!
+/t 
+프리처드: 잡았어!
+/e 
+
+/s
+Hint
+Reparing when outside the tank is most effective - but also the most dangerous. Be aware of your surroundings.
+/t
+정보
+탱크에서 내려 수리하는 것이 가장 효과적이지만, 가장 위험하기도 합니다. 주위 상황을 주시하십시오.
+/e 
+
+/s
+McManus: Got them!
+/t 
+맥매너스: 잡았다!
+/e 
+
+/s
+Townsend: Go around those blockades.
+/t 
+타운센드: 장애물을 돌아서 가.
+/e 
+
+/s 
+Townsend: Got it, now move!
+/t 
+타운센드: 잡았다, 이제 움직여!
+/e 
+
+/s 
+McManus: We got it!
+/t 
+맥매너스: 잡았어!
+/e 
+
+/s 
+McManus: Blast that gun!
+/t 
+맥매너스: 야포를 터뜨려버려!
+/e 
+
+/s 
+Edwards: Hold on! Incoming!
+/t 
+에드워즈: 포탄이다 조심해!
+/e 
+
+/s 
+Pritchard: Hit!
+/t 
+프리처드: 명중!
+/e 
+
+/s 
+Townsend: Field gun! Flatten it and move fast!
+/t 
+타운센드: 야포다! 처리하고 신속하게 움직여!
+/e 
+
+/s 
+McManus: My ears are ringing!
+/t 
+맥매너스: 으... 귀가 멍멍해!
+/e 
+
+/s 
+Townsend: Grenade tossed! Move!
+/t
+타운센드: 수튜탄이다! 피해!
+/e 
+
+/s 
+ARTILLERY DESTROYED
+/t 
+야포 파괴됨
+/e 
+
+/s 
+Townsend: Great job lads, let's find the rest!
+/t 
+타운센드: 훌륭하다 제군들, 이제 나머지들을 소탕하자!
+/e 
+
+/s 
+NEW OBJECTIVE
+
+DESTROY ENEMY ARTILLERY
+/t 
+새로운 목표
+
+적의 야포를 파괴하라
+/e
+
+/s 
+Townsend: Quickly! Shut down that gun!
+/t 
+타운센드: 어서 처리해버려!
+/e 
+
+/s 
+Townsend: Driver! Where are you going? Take us back into the fight!
+/t 
+타운센드: 운전병! 어디로 가는 건가? 전장으로 복귀하라!
+/e 
+
+/s 
+Townsend: Hurry with that field gun!
+/t 
+타운센드: 어서 야포를 처리해!
+/e 
+
+/s 
+McManus: Incoming grenade!
+/t 
+맥매너스: 전방 수류탄!
+/e 
+
+/s 
+ARTILLERY DESTROYED
+/t 
+야포 파괴됨
+/e 
+
+/s 
+Townsend: That's two! keep at them, boys!
+/t 
+타운센드: 이걸로 두 번째! 계속 나아가 제군들!
+/e 
+
+/s 
+RETURN TO THE COMBAT AREA
+/t 
+전장으로 복귀하십시오
+/e 
+
+/s 
+Townsend: Our boys need us, turn this thing around!
+/t 
+타운센드: 보병들은 우리를 필요로 한다 이동해!
+/e 
+
+/s 
+McManus: Field gun! Watch out!
+/t 
+맥매너스: 야포야! 조심해!
+/e 
+
+/s 
+Pritchard: Anti-Tank grenades!
+/t 
+프리처드: 대 전차 수류탄이다!
+/e 
+
+/s 
+ARTILLERY DESTROYED
+/t 
+야포 파괴됨
+/e 
+
+/s 
+Townsend: That was the last one! Village is ours!
+/t 
+타운센드: 마지막도 처리했다! 이제 마을은 우리 편이다!
+/e 
+
+/s 
+NEW OBJECTIVE
+ 
+CAPTURE BIG WILLY'S FARM
+/t 
+새로운 목표
+
+농장을 점령하라
+/e 
+
+/s 
+Townsend: We're taking damage!
+/t 
+타운센드: 공격받고있다!
+/e 
+
+/s 
+Edwards: She's fixed!
+/t 
+에드워즈: 수리 완료!
+/e 
+
+/s 
+Townsend: Good job lad!
+/t 
+타운센드: 잘했다!
+/e 
+
+/s 
+Pritchard: Get a move on!
+/t
+프리처드: 계속 전진하라!
+/e 
+
+/s 
+Pritchard: Cannon's gonna slow us down. Hit it!
+/t 
+프리처드: 야포가 보병의 진격을 늦추고 있어. 처리해!
+/e 
+
+/s 
+Townsend: Gun down! Go!
+/t 
+타운센드: 처리 완료! 움직여!
+/e 
+
+/s 
+Townsend: Keep pushing, lads! We've soon taken this spot!
+/t 
+타운센드: 계속 밀어붙여라! 곧 우리가 차지할 수 있어!
+/e 
+ 
+/s 
+Townsend: Gun's done. Punch it, Edwards!
+/t 
+타운센드: 야포 파괴 잘했어 에드워즈!
+/e 
+
+/s 
+OBJECTIVE COMPLETE
+/t 
+임무 완료
+/e 
+
+/s 
+Townsend: Artillery ahead! Now we can cut them all down!
+/t 
+타운센드: 전방 포대! 모두 처리해야 해!
+/e 
+
+/s 
+NEW OBJECTIVE
+
+DESTROY ENEMY ARTILLERY
+/t 
+새로운 목표 
+
+적의 야포를 파괴하라
+/e 
+
+/s 
+Pritchard: They're gone!
+/t 
+프리처드: 해냈어!
+/e 
+
+/s 
+Townsend: Gun down. Go!
+/t 
+타운센드: 야포 파괴. 어서 움직여!
+/e 
+
+/s 
+Townsend: One less Emma Gee!
+/t 
+타운센드: 기관총 파괴!
+/e 
+
+/s
+Townsend: Right. Get back in here and drive!
+/t 
+타운센드: 어서 탱크로 돌아와!
+/e 
+
+/s
+Townsend: Hurry! Get back inside, Edwards!
+/t 
+타운센드: 서둘러! 어서 돌아와 에드워즈!
+/e 
+
+/s 
+FIELD MANUALS FOUND
+1 / 5
+/t 
+야전 교범 획득 
+1 / 5
+/e 
+
+/s 
+FIELD MANUALS FOUND
+2 / 5
+/t 
+야전 교범 획득 
+2 / 5
+/e 
+/s 
+FIELD MANUALS FOUND
+3 / 5
+/t 
+야전 교범 획득 
+3 / 5
+/e 
+/s 
+FIELD MANUALS FOUND
+3 / 5
+/t 
+야전 교범 획득 
+3 / 5
+/e
+ 
+/s 
+FIELD MANUALS FOUND
+4 / 5
+/t 
+야전 교범 획득 
+4 / 5
+/e 
+
+/s 
+FIELD MANUALS FOUND
+5 / 5
+/t 
+야전 교범 획득 
+5 / 5
+/e 
+
+/s
+Townsend: Come on! Get back in the seat, driver!
+/t 
+타운센드: 어서! 복귀하라 운전병!
+/e 
+
+/s
+Townsend: You done? Come on! We gotta move!
+/t 
+타운센드: 끝난거야? 어서! 우린 빨리 이동해야!
+/e 
+
+/s 
+Townsend: Come on! The enemy position by the farm!
+/t 
+타운센드: 제발! 적들이 농장에 가득하다고!
+/e 
+
+/s 
+Townsend: Hurry! Get back inside, Edwards!
+/t 
+타운센드: 서둘러! 다시 돌아와 에드워즈!
+/e 
+
+/s 
+Townsend: You're going the wrong way!
+/t 
+타운센드: 잘못된 방향이야!
+/e 
+ 
+/s 
+Pritchard: Shove off you Kaiser!
+/t 
+프리처드: 꺼져 카이져!
+/e 
+
+/s 
+Pritchard: Let's show this shower what happens when you mess with the King's lads!
+/t 
+프리처드: 영국의 전우들을 건들면 어떻게 되는지 보여주지! 
+/e 
+
+/s 
+McManus: Pritchard, you and me make sure Finch didn't die for nothing!
+/t 
+맥매너스: 프리처드, 핀치가 절때로 헛되히 죽은게 되선 안돼!
+/e 
+
+/s 
+Pritchard: Yes, that will shut them up!
+/t 
+프리처드: 그래 놈들이 혼쭐이 난거 같아!
+/e 
+
+/s 
+Townsend: Gun crew is gone! Good job!
+/t 
+타운센드: 야포 파괴! 잘했다!
+/e 
+
+/s 
+Edwards: German tank-closing on us!
+/t 
+에드워즈: 독일군 탱크 접근중!
+/e 
+
+/s 
+Townsend: It's gone! Move on!
+/t 
+타운센드: 야포 파괴! 이동해!
+/e 
+
+/s 
+Pritchard: Yes, that will be shut them up!
+/t 
+프리처드: 그래, 처리했어!
+/e 
+
+/s 
+Townsend: Quickly! Shut down that gun!
+/t 
+타운센드: 서둘러! 빨리 없애버려!
+/e 
+
+/s 
+Townsend: Clear the bridge of any German defenses!
+/t 
+타운센드: 다리에 있는 독일군들을 모조리 해치워버려!
+/e 
+
+/s 
+Townsend: Edwards, take us over!
+/t 
+타운센드: 에드워즈, 이동해!
+/e 
+
+/s 
+Townsend: Field gun right there!
+/t 
+타운센드: 전방에 야포!
+/e 
+
+/s 
+Edwards: Grenade, get ready!
+/t 
+에드워즈: 수류탄이다! 조심해!
+/e 
+
+/s 
+Townsend: More damn mud!
+/t 
+타운센드: 또 거지같은 진흙이야!
+/e 
+
+/s 
+Townsend: Throttle up, push through!
+/t 
+타운센드: 스로틀 최대로! 밀어 붙인다!
+/e 
+
+/s 
+Pritchard: Why we moving so slow?
+/t 
+프리처드: 왜 이리 느린거야?
+/e 
+
+/s 
+Townsend: They were waiting for us! Get us moving!
+/t 
+타운센드: 놈들이 기다리고 있었어! 어서 움직여!
+/e 
+
+/s 
+Pritchard: Shit! Shit!
+/t 
+프리처드: 젠장! 젠장!
+/e 
+ 
+/s 
+Edwards: Can't get any traction!
+/t 
+에드워즈: 궤도가 헛돌고 있습니다!
+/e 
+
+/s 
+Townsend: Push'em back lads!
+/t 
+타운센드: 뒤로 빠져!
+/e 
+
+/s 
+Pritchard: Get off Bessy you Fritz scum!
+/t 
+프리처드: 독일 놈들에게 포위됐어!
+/e 
+
+/s 
+McManus: We're fish in a barrel here!
+/t 
+맥매너스: 완전 독 안에 든 쥐잖아!
+/e 
+
+/s 
+No traction, Sir. I can't move her!
+/t 
+꼼짝도 안합니다. 전차장님!
+/e 
+
+/s 
+Come on. Come on, man!
+/t 
+제발... 제발... 어서!
+/e 
+
+/s 
+Pritchard!
+/t 
+프리처드!
+/e 
+
+/s 
+Pigeon! 
+/t 
+비둘기!
+/e 
+
+/s 
+Are you out of your mind!? You're gonna get us all killed!
+/t 
+당신 지금 제정신이야!? 우리 모두를 죽이려고 작정한 거야!?
+/e 
+
+/s 
+Edwards, behind you!
+/t 
+에드워즈, 뒤에 적이야!
+/e 
+
+/s 
+Edwards!
+/t 
+에드워즈!
+/e 
+
+/s 
+Edwards, grab the pigeon!
+/t 
+에드워즈! 저 비둘기를 잡아!
+/e 
+
+/s 
+Don't do it!
+/t  
+아니! 저 사람 말 듣지 마!
+/e 
+
+/s 
+Grab that pigeon!
+/t 
+저 비둘기를 잡아!
+/e 
+
+/s 
+It's suicide. You're gonna blow us all to bits.
+/t
+이건 자살행위나 다름없잖아! 
+/e 
+
+/s 
+It's the only chance we got, McManus!
+/t 
+이게 우리가 살 수 있는 유일한 길이야 맥매너스!
+/e 
+
+/s 
+Edwards, grab the pigeon!
+/t 
+에드워즈, 저 비둘기 어서 잡아!
+/e 
+
+/s 
+Don't do it! Don't listen to that man!
+/t 
+하지 마! 저 사람 말 듣지 말라고!
+/e 
+
+/s 
+Release that pigeon now and you'll kill us all, Edwards.
+/t 
+그 비둘기를 풀어버리면 우리는 다 죽는 거야 에드워즈!
+/e 
+
+/s 
+That's an order, son!
+/t 
+이건 명령이다!
+/e 
+
+/s 
+Edwards! Release the pigeon! That is on order, son, do you understand me?
+/t 
+에드워즈! 비둘기를 풀어라! 지금 이건 명령이다! 이해했나!?
+/e 
+
+/s 
+Sir... Sir!
+/t 
+... 알겠습니다!
+/e 
+
+/s 
+NEW OBJECTIVE
+ 
+DELIVER MESSAGE TO HQ
+/t 
+새로운 목표
+
+메세지를 지휘부까지 전달하라
+/e 
+
+/s 
+Message coming in!
+/t 
+메세지가 도착했다!
+/e 
+
+/s 
+Orders!
+/t 
+명령이다!
+/e 
+
+/s 
+Sir, new fire mission.
+/t
+새로운 포격 요청입니다.
+/e 
+
+/s 
+It's Townsend, sir.
+/t 
+타운센드로 부터 왔습니다.
+/e 
+
+/s 
+FIRE MISSION. URGENT! OVERRUN! GRID 317241 ELE60
+/t 
+포격 요청. 긴급! 함락! 좌표 317241 ELE60
+/e 
+
+/s 
+Sir.
+/t 
+지휘관님!
+/e 
+
+/s 
+Grid 3 6 4 2!
+/t
+좌표 3-6-4-2!
+/e 
+
+/s
+Fire!
+/t 
+발사!
+/e 
+
+/s 
+Here it comes, boys. Nice serving with you, lads.
+/t 
+이제 오는구만, 자네들과 함께해서 좋았다.
+/e 
+
+/s 
+You have the luck of the devil, Townsend.
+/t 
+타운센드, 너에게는 지독한 운이 있어
+/e 
+
+/s 
+Is that right?
+/t 
+맞지?
+/e 
+
+/s 
+All we've got out here is blind orders-and chance.
+/t 
+여기서 나온 거라곤 눈이 보이지 않는 자들 뿐이잖아요
+/e 
+
+/s 
+Wich'll do first for us, do you reckon?
+/t 
+Wich는 우리를 위해 먼저 할 거에요, 그렇죠?
+/e 
+
+/s 
+I'm sick of your lip, McManus.
+/t 
+McManus, 너의 입술이 아파보이는구나
+/e 
+
+/s 
+Aye aye, Sir.
+/t 
+네 대장.
+/e 
+ 
+/s 
+Edwards, start her up.
+/t 
+에드워드, 일으켜 세워.
+/e 
+
+/s 
+Sir.
+/t 
+넵
+/e 
+
+/s 
+Fuel line's backing up!
+/t 
+연료 백업 중입니다!
+/e 
+
+/s 
+Oh Big Bess. Give us a break, give us a break
+/t 
+오 빅 베스 잠시 쉬어라. 우리에게 휴식을 주어라.
+/e 
+
+/s 
+Come on. Ah, come on Bess, come on. Stop. Stop, Big Bess, stop stop!
+/t 
+부탁이야 아, 베스, 이리 와. 이제 그만 그만해, 빅 베스, 그만해!
+/e 
+
+/s 
+It stopped.
+/t 
+멈췄어요
+/e 
+
+/s 
+Are you just gonna stand there?
+/t
+그냥 거기 서 있을 거야?
+/e
+
+/s 
+Ah, hell. There's fog up ahead. I can't see more than twenty yards.
+/t 
+아, 젠장 앞에 안개가 끼었어요. 20야드 이상은 볼 수 없어요.
+/e 
+
+/s 
+We're pushing through.
+/t 
+우리는 밀고 나가고 있어야해.
+/e 
+
+/s 
+Edwards, I'll drive. You jump out and scout ahead.
+/t 
+Edwards, 내가 운전을 하겠다. 너는 밖에 나가서 앞을 정찰해.
+/e 
+
+/s 
+Don't be a hero, lad. just do your job.
+/t 
+영웅이 되려고 하지마, 얘야 그냥 네 일이나 해
+/e 
+
+/s 
+Townsend: Let's all get through in one piece, ej? If you get into trouble, we'll be
+right behind you.
+/t 
+Townsend:모두 한판 붙어 볼까요? 만약 네가 곤경에 빠진다면 우리는 네 바로 뒤에 있을거야.
+/e 
+
+/s 
+NEW OBJECTIVE 
+GUIDE BLACK BESS THROUGH
+BOURLON WOOD
+/t 
+뉴 타깃 
+검은 머리 오목눈이
+버본 위스키
+/e 
+
+/s 
+HINT
+Scout through the forest, clearing anti-
+tank obstacles ahead of Black Bess.
+Should you enter combat, Black Bess will
+move up to support you.
+/t 
+힌트
+숲 속을 뚫고 들어와 블랙 베스를 앞세운 대전차 장애물들을 치웠다. 당신이 전투에 참가한다면, 블랙 베스는 당신을 지지하기 위해 위로 이동할 것이다.
+/e 
+
+/s 
+HINT
+Spotted enemies are permanetly marked
+onscreen. This makes them easier to 
+avoid - or eliminate.
+/t 
+뚜렷한 적이 있는 적들은 영구적으로 화면에 표시되어 있다. 이를 통해 예방하거나 제거할 수 있습니다.
+/e 
+
+/s 
+He's taking a piss. I hope the trolls get him.
+/t 
+그는 오줌을 싸고 있다. 트롤들이 그를 잡았으면 좋겠어요.
+/e 
+
+/s 
+Townsend: Edwards. There you are, lad.
+/t 
+Townsend: 여기 있구나, 얘야
+/e 
+
+/s 
+Townsend: Magic, driver, that's magic. Wouldn'are even know there was a war 
+on, eh?
+/t 
+Townsend: 마법사, 마법사, 마술이죠. 전쟁이 일어났다는 걸 알기나 해?
+/e 
+
+/s 
+Townsend: Hang back, I'm pushing through the wire.
+/t 
+Townsend: 뒤로 물러서, 난 철조망을 통과하고 있어
+/e 
+
+/s 
+Townsend: I can't see a damn thing. Edwards, get up front and lead us through,
+Don't get too far ahead.
+/t 
+Townsend: 이 망할 것을 볼 수 없어. 에드워드, 앞으로 일어나서 우릴 이끌어 나가. 너무 멀리 가지 마.
+/e 
+
+/s 
+Townsend: Looks like there may be trouble up ahead.
+/t 
+Townsend: 앞으로 문제가 생길 것 같은데요.
+/e 
+
+/s 
+Townsend: You go scout and if everything is alright give us a signal. We'll come
+to help if we hear any trouble.
+/t 
+Townsend: 정찰대에 가서 모든 게 괜찮다면 신호를 보내 주세요. 무슨 문제라도 있으면 도와 드릴게요.
+/e 
+
+/s 
+Townsend: I tell you what, I'm glad you're on our side Edwards.
+/t 
+Townsend: 네가 우리 옆에 서 있어서 기뻐.
+/e 
+
+/s 
+Townsend: Watch yourself, we'll deal with this.
+/t 
+Townsend: 조심해, 우린 이걸 처리할 거야.
+/e 
+
+/s 
+Townsend: I can't see a damn thing. Edwards, get up front and lead us through,
+Don't get too far ahead.
+/t 
+Townsend: 이 망할 것을 볼 수 없어. 에드워드, 앞으로 일어나서 우릴 이끌어 나가. 너무 멀리 가지 마.
+/e 
+
+/s 
+Townsend: You got us this far Edwards. I need you to do it again until we're out of these woods.
+/t 
+Townsend: 우리가 여기까지 온 에드워즈 여사를 데려왔잖아요. 우리가 이 숲에서 벗어날 때까지 자네가 다시 해 줬으면 해
+/e 
+
+/s 
+Townsend: Not bad on that one Edwards, we're nearly out of the woods now.
+/t 
+ Townsend: 저 에드워드 한마리는 나쁘지 않아요. 우린 이제 거의 숲 밖에 있어요.
+/e 
+
+/s 
+Townsend: According to the map we should soon be out of these sodding woods.
+/t 
+Townsend: 지도에 따르면, 우리는 곧 이 빌어먹을 숲에서 벗어나야 한다.
+/e 
+
+/s 
+Townsend: We need to get across this here bridge and then it shouldn't be much
+further.
+/t 
+Townsend: 우리는 이 다리를 건널 필요가 있고 더 이상은 안됩니다.
+/e 
+
+/s 
+Townsend: I still need you to scout ahead until we're in the clear, through.
+/t 
+Townsend: 아직 확실한 상황이 끝날 때까지 계속 앞으로 나아가야 해요
+/e 
+
+/s 
+Townsend: On the bridge! Germans! Let em have it!
+/t 
+Townsend: 다리 위를 보세요! 독일군이에요 ! 
+/e
+
+/s 
+ McManus: Edwards! Get a move on!
+/t
+  McManus: 에드워드! 서둘러!
+/e 
+
+/s 
+Townsend: Gunners have our range! Move! Move!
+/t 
+Townsend: 병사들이 범위안에 있어요! 빨리요 빨리!
+/e 
+
+/s 
+Townsend: Come one, take them out! Bess is hurting!
+/t 
+Townsend: 이리 와, 저들을 데리고 나가! 베스는 고장났어 !
+/e 
+
+/s 
+HINT
+Weapon stations have some of the most powerful weapons on the battlefield.
+/t 
+고정식 무기들은 전장에서 가장 강력한 무기들을 보유하고 있다.
+/e 
+
+/s 
+Townsend: There's a bunker on the ridge up ahead. Looks well defended too.
+Those field guns could quickly ruin our day.
+/t 
+Townsend: 산 등성이 위에 벙커가 하나 있어. 방어로 썩 잘 된 것 같이 보이고요. 그들의 필드건은 하룻나절이면 우리를 파괴할거같아.
+/e 
+
+/s 
+Townsend: You go in clear out those guns, we'll move up and finish the job.
+/t 
+Townsend: 저 총들을 치워 버리고 나서 우린 승진하고 일을 마무리 지을 거야.
+/e 
+
+/s 
+HINT
+Limpet Charges are timed explosives with 
+a magnetic latch. This makes them ideal
+for destroying enemy vehicles and 
+structures.
+/t 
+림펫차지는 자석 잠금 장치가 있는 시한 폭탄이다. 이것은 그들이 적 차량과 구조물을 파괴하는데 이상적이다.
+/e 
+
+/s 
+HINT
+Tripwire Bombs will set down an explosive
+charge on the ground. The charge is 
+detonated via a sensitive tripwire 
+deployed directly ahead.
+/t 
+트립와이어 폭탄은 지상에 폭발물을 설치할 것이다  민감한 삼각대를 통해 바로하여금 폭발됩니다.
+/e 
+
+/s 
+Townsend: There will be more on the way, look around for anything useful!
+/t 
+Townsend: 더 많은 것들이 있을 텐데, 어떤 유용한 것이든 주위를 둘러봐!
+/e 
+
+/s 
+Townsend: Reinforcements pouring in!
+/t 
+Townsend: 화망을 강화시켜 !
+/e
+
+/s  
+Townsend: Kill them before they get us!
+/t 
+Townsend: 그들이 우릴 잡기 전에 죽여 버려!
+/e 
+
+/s 
+Townsend: Look lively, Edwards! Fritz is on the way!
+/t 
+Townsend: 살아있구만 에드워드 ! 
+/e 
+
+/s 
+McManus: Edwards!
+/t 
+McManus: 에드워드!
+/e 
+
+/s 
+BLACK BESS WAS DESTROYED
+/t 
+블랙 베스가 파괴되었습니다.
+/e 
+
+/s 
+Townsend: They are killing us!
+/t 
+Townsend: 그들은 우릴 죽이려고해!
+/e 
+
+/s 
+Townsend: I need you here, son! On the double.
+/t 
+Townsend: 네가 필요하다, 황급하게.
+/e 
+
+/s 
+NEW OBJECTIVE
+
+RETURN TO BLACK BESS
+/t 
+블랙베스로 복귀하시오.
+/e 
+
+/s 
+Townsend: Well that's enough fun and games for a Tuesday. Get in and drive, 
+Edwards. Let's get out of here.
+/t 
+Townsend: 충분히 재미 있고 즐거운 게임 게임을 화요일에 할거야. 들어가서 드라이브하자꾸나, 에드워드. 여기에서 나가자.
+/e 
+ 
+/s
+Jesus, Bess. Give us a break, give us a break
+/t
+맙소사, 베스. 제발 좀, 제발 좀 도와줘
+/e
+
+/s
+ What? Edwards, what?
+/t
+뭐지? 에드워즈? 무슨 일이야?
+/e
+
+/s
+Sir, she needs new sparkplugs.
+/t
+새 점화플러그가 필요합니다.
+/e
+
+/s
+Check... Check how far that village is.
+/t
+마을.. 마을이 얼마나 먼지 확인해
+
+/e
+
+/s
+Can you see it, son? Can you see the village?
+/t
+보이나? 마을이 보이나?
+/e
+
+/s
+Yes. Yes, I see it.
+/t
+예. 보입니다.
+/e
+
+/s
+And what about our tanks? can you see any of our tanks down there?
+/t
+그럼 아군 탱크는? 아군 탱크는 보이나?
+/e
+
+/s
+Edwards?
+/t
+에드워즈?
+/e
+
+/s
+Yeah, but they are not ours anymore.
+/t
+보입니다만 더이상 아군 탱크가 아닙니다.
+/e
+
+/s
+Sounds like whatever Bess needs is down in that village.
+/t
+베스가 필요한 게 뭔지 몰라도, 저 마을에 있겠군.
+/e
+
+/s
+Alright. Let's go, Edwards.
+/t
+좋아. 가자 에드워즈
+/e
+
+/s
+Let's go.
+/t
+가자
+/e
+
+/s
+Good luck.
+/t
+행운을 빈다
+/e
+
+/s
+Come over here.
+/t
+이리 와봐
+/e
+
+/s
+That tank is going nowhere and he'll be dead by morning. We're fucked.
+/t
+탱크는 이제 아무곳도 못 가고, 전차장은 내일 아침이면 죽을 목숨이야. 우린 망했어.
+/e
+
+/s
+What's it, you just gonna abandon the mission, are you?
+/t
+그래서 임무를 그냥 포기하겠다는거야?
+/e
+
+/s
+Don't you get it? Finch, Pritchard, all of us-we've been fucked all along!
+/t
+이해 안돼? 핀치, 프리쳐드, 우리 모두 줄곧 희롱 당한 거야!
+/e
+
+/s
+If that's what you want, McManus, then just go.
+/t
+떠나고싶다면 그냥 떠나, 맥매너스. 그냥 가라고
+
+/e
+
+/s
+Don't you ever talk to me like that. I've run more fucking missions than you have had hot dinners, son!
+/t
+그런식으로 말하지마. 네가 더운 저녁을 먹은 수보다도 훨씬 많이 이 개같은 임무를 수행해왔다고!
+/e
+
+/s
+McManus, just fucking go!
+/t
+그냥 가라고!
+/e
+
+/s
+Edwards: So much for we're all in this together.
+/t
+전부 같이 하기는 개뿔
+/e
+
+/s
+Alright. Find the parts. Get the tank running. Don't die.
+/t
+좋아, 이제 부품을 찾고, 탱크를 고치자. 죽지 말고.
+/e
+
+/s
+Edwards: Nice one. One down, three to go.
+/t
+하나 찾았고 이제 3개 남았다.
+/e
+
+/s
+Edwards: Halfway there.
+/t
+절반 남았다.
+/e
+
+/s
+Edwards: Just one more.
+/t
+이제 하나만 더
+/e
+
+/s
+Edwards: That's all of em, now back to Bess.
+/t
+다 됐다. 이제 베스에게 돌아가자.
+/e
+
+/s
+I lost my way back there.
+/t
+가다가 길을 잃었어
+/e
+
+/s
+There's no right way in a place like this.
+/t
+이런 곳에 올바른 길이 어디있겠어.
+/e
+
+/s
+We'll find one. You're the driver.
+/t
+우리가 찾을거야. 네가 운전병이잖아.
+/e
+
+/s
+Ah. Nice work, boys.
+/t
+잘했다, 제군들.
+/e
+
+/s
+Yeah, we did good, didn't we?
+/t
+맞아요, 우리 잘했죠, 그렇지?
+/e
+
+/s
+Aye.
+/t
+그래.
+/e
+
+/s
+Right sir, that's the last of them.
+/t
+좋아, 이게 마지막입니다.
+/e
+
+/s
+Let's get her moving.
+/t
+이제 움직여보죠.
+/e
+
+/s
+I've done everything right. Everything!
+/t
+모든 걸 다 고쳤어, 다 고쳤다고!
+/e
+
+/s
+My whole sodding life!
+/t
+제대로 풀리는 일이 없어!
+/e
+
+/s
+All i've done is live my life by the manual. By the manual!
+/t
+메뉴얼대로 살아왔는데! 메뉴얼대로!
+/e
+
+/s
+You stupid, you stupid bloody machine!
+/t
+뭐가 문제야, 이 한심하고 멍청한 망할 기계야!
+/e
+
+/s
+Now, come on. Come on, Bess. Pull yourself together and work with me here.
+/t
+어서, 베스. 그만 정신 차리고 나랑 일 해야지
+/e
+
+/s
+Ah fuck's sake! I thought you liked to bloody well fight!
+/t
+씨발! 싸우는거 좋아하는 줄 알았는데!
+/e
+
+/s
+Come on!
+/t
+제발!
+/e
+
+/s
+*laughter*
+/t
+*웃음*
+/e
+
+/s
+Hey Edwards! She likes it when you swear, boy!
+/t
+에드워즈! 베스는 네가 욕 하는걸 좋아하나봐!
+/e
+
+/s
+McManus: Alright Edwards. Rendezvous is past those hills in the distance. Just mind that village down there.
+/t
+맥매너스: 좋아 에드워즈, 언덕 너머가 집결장소니까 저 아래 마을좀 신경쓰면서 움직이자구.
+/e
+
+/s 
+Edwards: Alright lads. Hang on. Here we go.
+/t
+에드워즈: 알겠습니다. 모두 꽉 잡아요. 출발합니다!
+/e
+
+/s
+McManus: Left flank. Captured tanks moving into the village.
+/t
+맥매너스: 좌측에 노획된 탱크가 마을쪽으로 이동한다.
+/e
+
+/s
+Townsend: Steady, Lads. We're well behind Jerry's lines now. No way of knowing what we're up against.
+/t
+타운센드: 침착해라 제군들. 우린 지금 적진 한복판에 있으니 뭐가 튀어나올지 알수없다.
+/e
+
+/s
+McManus: That's a cheerful thought.
+/t
+맥매너스: 참 흥이 돋네요.
+/e
+
+/s
+Edwards: Come on lads, we've held together this long. Let's not fall apart now.
+/t
+에드워즈:그래도, 지금까지 함께 했는데 힘을 합쳐야죠.
+/e
+
+/s
+Townsend: Old Bess has got us this far and she'll get us all the way if we do our bit.
+/t
+타운센드: 베스덕에 여기까지 왔으니, 우리 일만 똑바로 한다면 끝까지 데려다 줄거다 
+/e
+
+/s
+McManus: There they are!
+/t
+맥매너스: 저기 있다!
+/e
+
+/s
+Edwards: We might just pull this off!
+/t
+에드워즈: 우리 해낼 수 있을것 같아요!
+/e
+
+/s
+Townsend: Engage! Engage!
+/t
+타운센드: 교전! 교전!
+/e
+
+/s
+Townsend: Good Range!
+/t
+타운센드: 좋은 거리야!
+/e
+
+/s
+McManus: We got the little bastard!
+/t
+맥매너스: 잡았다 좆만한 새끼!
+/e
+
+/s
+McManus: Good impact!
+/t
+맥매너스: 명중!
+/e
+
+/s
+McManus: We've kicked the hornet's nest, boys! We need to fallback!
+/t
+맥매너스: 벌집을 건드렸어! 후퇴해야 해!
+/e
+
+/s
+Townsend: No! We fall back now and we're dead! Push through the attack! You hear me?! Push through!
+/t
+타운센드: 안돼! 후퇴하면 우린 다죽어! 밀어붙여! 듣고있나?! 밀어붙이라고!
+/e
+
+/s
+Townsend: Keep us moving! Use cover where you can!
+/t
+타운센드: 계속 엄폐하면서 이동해!
+/e
+
+/s
+McManus: Gun ready!
+/t
+맥매너스: 포 준비!
+/e
+
+/s
+Townsend: No time for tea and biscuits! Keep shooting!
+/t
+타운센드: 쉬지말고 계속 갈겨!
+/e
+
+/s
+Edwards: Keep hittin' that bastard!
+/t
+에드워즈: 계속 갈겨!
+/e
+
+/s
+Townsend: That did him in!
+/t
+타운센드: 잡았다 요놈!
+/e
+
+/s
+Townsend: Edwards, you're goin' the wrong way, lad. Get us back in there!
+/t
+타운센드: 에드워즈 어디로 가는거야! 저쪽으로 가라고!
+/e
+
+/s
+McManus: Yes! That's it!
+/t
+맥매너스: 좋아! 그거야!
+/e
+
+/s
+Townsend: Good work, but let's not get cocky!
+/t
+타운센드: 잘했다. 하지만 아직 갈길이 멀어!
+/e
+
+/s
+Edwards: Train Tracks.
+/t
+에드워즈: 기차 선로다.
+/e
+
+/s
+Townsend: There's a train yard on the other side of this hill. We're looking for a main road just past it.
+/t
+타운센드: 언덕 반대편에 기차역이 있어. 거길 지나 간선도로를 찾는다.
+/e
+
+/s
+Townsend: This is a staging area. They're fixing to retake Cambrai.
+/t
+타운센드: 부대집결지잖아. 캉브레를 되찾으려고 준비하고있어.
+/e
+
+/s
+McManus: So we drive straight through!
+/t
+맥매너스: 그럼 곧장 뚫고 가죠!
+/e
+
+/s
+Townsend: And What? Let them surprise everyone at the rendezvous?
+/t
+타운센드: 그리고 뭐? 집결지에서 모두를 놀래키게 놔두자고?
+/e
+
+/s
+McManus: So what's the plan?
+/t
+맥매너스: 그럼 계획이 뭔데요?
+/e
+
+/s
+Townsend: We have to take the initiative. If we hit them hard and fast here, we can make a difference.
+/t
+타운센드: 우리가 여기서 기습공격을 하면 효과가 있을거야.
+/e
+
+/s
+McManus: Alright, then. Let's bloody do it!
+/t
+맥매너스: 좋아, 다죽었어!
+/e
+
+/s
+Townsend: Kepp moving. Keep'em confused and off balance, and let's hope they don't realize we're on our own!
+/t
+타운센드: 계속 이동해. 놈들을 혼란스럽게 해서 우리말고 더 있다고 생각하게 만들어!
+/e
+
+/s
+McManus: Standby for rounds! Clear the breach!
+/t
+맥매너스: 탄환 준비! 약실 개방!
+/e
+
+/s
+Townsend: That got'em!
+/t
+타운센드: 잡았다!
+/e
+
+/s
+McManus: You're going to roll us!
+/t
+맥매너스:너 우릴 죽일셈이냐!
+/e
+
+/s
+McManus: Range is good!
+/t
+맥매너스: 거리가 좋군!
+/e
+
+/s
+Edwards: Good shot, McManus!
+/t
+에드워즈: 끝내주는군요 맥매너스!
+/e
+
+/s
+McManus: Line me up Edwards!
+/t
+맥매너스: 준비해 에드워즈!
+/e
+
+/s
+Townsend: Knock out that gun crew!
+/t
+타운센드: 포수를 처리해!
+/e
+
+/s
+McManus: Keep on that little one!
+/t
+맥매너스: 계속 경전차를 향하게 해!
+/e
+
+/s
+Townsend: Keep us moving! Use Cover where you can!
+/t
+타운센드: 엄폐하면서 계속 이동해라!
+/e
+
+/s
+McManus: That's for Pritchard!
+/t
+맥매너스: 이건 프리처드 몫이다!
+/e
+
+/s
+McManus: There's a bleeder right there!
+/t
+맥매너스: 저기 적이 있어!
+/e
+
+/s
+Edwards: Bloody good hit!
+/t
+에드워즈: 제대로 맞혔구만!
+/e
+
+/s
+Townsend: Mop up that infantry.
+/t
+타운센드: 남은 보병들을 정리해
+/e
+
+/s
+McManus: Enemy group coming in!
+/t
+맥매너스: 적 부대 접근중!
+/e
+
+/s
+McManus: Let's just high tail it for Cambrai, straight down the main road.
+/t
+맥매너스: 간선도로 타고 캉브레로 잽싸게 튑시다!
+/e
+
+/s
+Townsend: That's exactly where they'll be coming from! Edwards, find us a position so we can to hit them when they arrive.
+/t
+타운센드: 지금 거기서 오는거야! 에드워즈, 놈들이 도착했을때 바로 칠 수 있는 곳으로 이동해.
+/e
+
+/s
+Townsend: Knock out that gun crew!
+/t
+타운센드: 포수를 처리해!
+/e
+
+/s
+Townsend: Engage that gun!
+/t
+타운센드: 저 야포에 쏴!
+/e
+
+/s
+McManus: Keep on that little one!
+/t
+맥매너스: 계속 경전차를 향하게 해!
+/e
+
+/s
+Townsend: Whoa!
+/t
+타운센드: 으앗!
+/e
+
+/s
+Townsend: Good shot!
+/t
+타운센드: 잘쐈다!
+/e
+
+/s
+McManus: Try to get behind them! The armor is weaker there!
+/t
+맥매너스: 놈들 뒤좀 잡아봐! 후면 장갑은 약하다구!
+/e
+
+/s
+McManus: We got the little bastard!
+/t
+맥매너스: 망할놈 잡았다!
+/e
+
+/s
+McManus: I have line of sight!
+/t
+맥매너스: 내 시야에 들어왔어!
+/e
+
+/s
+McManus: That's one for Finch!
+/t
+맥매너스: 이건 핀치 몫이다!
+/e
+
+/s
+Edwards: Yes! Tank down!
+/t
+에드워즈: 좋아! 탱크 파괴!
+/e
+
+/s
+Edwards: Little Willie still moving!
+/t
+에드워즈: 저 새끼 아직 움직입니다!
+/e
+
+/s
+McManus: That's for Pritchard!
+/t
+맥매너스: 요건 프리처드 몫이다!
+/e
+
+/s
+Townsend: Target knocked out!
+/t
+타운센드: 적 전차 파괴!
+/e
+
+/s
+Townsend: That's it! Smash that tiny bastard!
+/t
+타운센드: 좋아! 저 땅딸보새끼 조져버려!
+/e
+
+/s
+McManus: How do you like that, Fritz?!
+/t
+맥매너스: 맛이 어떠냐! 독일놈아?!
+/e
+
+/s
+Townsend: He's done for!
+/t
+타운센드: 산산조각 났구만!
+/e
+
+/s
+Townsend: That counterattack wasn't as stiff as it coulda been. There'll be more to come.
+/t
+타운센드: 반격이 이게 전부가 아닐꺼다. 아마 더 올꺼야.
+/e
+
+/s
+Edwards: Then we dig in here and fight!
+/t
+에드워즈: 그럼 여기서 자리잡고 싸웁시다!
+/e
+
+/s
+McManus: Let's get Bess Doin' what she does best!
+/t
+맥매너스: 베스가 가장 잘하는 것을 해보자!
+/e
+
+/s
+Townsend: Okay! Let's move! Come on!
+/t
+타운센드: 좋아! 어서 움직여!
+/e
+
+/s
+Townsend: Good God... A7Vs! Make it count McManus...
+/t
+타운센드: 제기랄... A7V중전차다! 맥매너스, 신중하게 쏴라...
+/e
+
+/s
+Townsend: That's it! That's it! Keep at it!
+/t
+타운센드: 그래! 그거야! 계속해!
+/e
+
+/s
+McManus: Field gun!
+/t
+맥매너스: 야포다!
+/e
+
+/s
+Townsend: Good hit!
+/t
+타운센드: 명중!
+/e
+
+/s
+McManus: Light tank! Keep a good line on it!
+/t
+맥매너스: 경전차다! 좋은 위치를 유지해!
+/e
+
+/s
+McManus: Watch those sight lines!
+/t
+맥매너스: 저기 좀봐!
+/e
+
+/s
+McManus: Bang on mate!
+/t
+맥매너스: 굉장하구만 친구!
+/e
+
+/s
+McManus: Yes! That's it!
+/t
+맥매너스: 그래! 바로 그거야!
+/e
+
+/s
+Townsend: Good work, but let's not get cocky!
+/t
+타운센드: 잘했다. 하지만 자만하지 마라!
+/e
+
+/s
+McManus: They're toast, lads!
+/t
+맥매너스: 바싹 익혀버렸어 하하!
+/e
+
+/s
+Edwards: Nice shooting, McManus!
+/t
+에드워즈: 끝내주는군요 맥매너스!
+/e
+
+/s
+Townsend: And again! Kill it!
+/t
+타운센드: 다시! 조져버려!
+/e
+
+/s
+McManus: Range is good!
+/t
+맥매너스: 거리가 좋아!
+/e
+
+/s
+McManus: Bring me around onto the next one, Edwards!
+/t
+맥매너스: 다른 놈도 조지러 가자구 에드워즈!
+/e
+
+/s
+Edwards: Good shot, McManus!
+/t
+에드워즈: 화끈한데요 맥매너스!
+/e
+
+/s
+McManus: We only bloody did it, boys!
+/t
+맥매너스: 씨발 우리가 해냈어!
+/e
+
+/s
+Edwards: Bess! You did it girl!
+/t
+에드워즈: 베스! 니가 해냈다구!
+/e
+
+/s
+Townsend: ...next stop... Cam-
+/t
+타운센드: 다음 정거장은.. 캉브..(기침)
+/e
+
+/s
+Edwards: Sir?
+/t
+에드워즈: 전차장님?
+/e
+
+/s
+Townsend: Edwards. Get moving.
+/t
+타운센드: 에드워즈. 이동해라.
+/e
+
+/s
+McManus: Oh no, don't you go thinking you can to drop dead on us now.
+/t
+맥매너스: 오 이런, 지금 쓰러질 생각은 꿈도 꾸지마십시오.
+/e
+
+/s
+Townsend: I'm fine boys. Just tired from all the fun. Come on now.
+/t
+타운센드: 난 괜찮아. 화끈하게 한바탕했더니 피곤할 뿐이라고.
+/e
+
+/s
+*singing*
+/t
+(포격음)
+/e
+
+/s
+McManus: Artillery!
+/t
+맥매너스: 포격이다!
+/e
+
+/s
+Townsend: Drive, drive...
+/t
+타운센드: 계속 가! 계속!
+/e
+
+/s
+Edwards: We've thrown a track!
+/t
+에드워즈: 궤도가 나갔습니다!
+/e
+
+/s
+Are you okay, Edwards?
+/t
+에드워즈, 괜찮아?
+/e
+
+/s
+Aah!
+/t
+아앍!
+/e
+
+/s
+Sorry, Bess.
+/t
+베스, 미안하다.
+/e
+
+/s
+Edwards.
+/t
+에드워즈.
+/e
+
+/s
+Ah!
+/t
+앍!
+/e
+
+/s
+So... What do we do now, driver?
+/t
+운전병, 우린 이제 뭘 하면되지?
+/e
+
+/s
+We walk.
+/t
+걸어야지
+/e
+
+/s
+More than 300 tanks took part in the second battle of Cambrai.
+/t
+300대가 넘는 탱크가 2차 캉브레 전투에 참전했다.
+/e
+
+/s
+The war ended one month later.
+/t
+전쟁은 한달 뒤에 끝났다.
+/e
+
+/s
+VOSGES, FRANCE. SPRING 1917.
+/t
+1917년 봄, 프랑스 보주.
+/e
+
+/s
+The allies are losing the war in the air.
+/t
+연합군은 공중전에서 밀리고 있었다.
+/e
+
+/s
+Germany's Air Force dominates the Western Front with a range of superior aircraft and a roster of famed "ace" pilots, each claiming scores of kills. -Britain's Royal Flying Corps struggles to compete.
+/t
+독일 공군이 월등한 항공기들과 높은 격추 횟수의 '에이스' 조종사들로 서부 전선을 지배하고 있어, 영국 항공대는 고전하고 있었다.
+
+
+/e
+
+/s
+Most replacement pilots have experience of less than 10 hours.
+/t
+보충되는 조종사들의 대부분은 10시간이 채 안되는 비행 경험을 가지고 있엇다.
+/e
+
+/s
+The average lifetime of an RFC combat pilot is 17 days.
+/t
+영국 항공대의 평균 생존기간은 17일이다.
+/e
+
+/s
+A steady flow of new aircraft designs are launched into the skies above war-torn France. New innovations are a gamble. Some are effective. Some are not.
+/t
+새로운 전투기들이 전쟁터인 프랑스에 띄워졌으나, 혁신은 도박이었다. 어떤 것은 효과적이었으나, 그렇지 못한 것도 있었다.
+/e
+
+/s
+Aviators risk their lives with unproven technologies. those that beat the odds either adapt quickly - or are lucky
+/t
+비행사들은 불안전한 기술에 목숨을 걸었다. 그들은 신속히 적응하거나 혹은 운으로 불리함을 극복했다.
+/e
+
+/s
+I have nothing left to bet, you idiot.
+/t
+이제 걸 것도 없어, 이 멍청아.
+/e
+
+/s
+The plane.
+/t
+비행기 았잖아
+/e
+
+/s
+That's rich.
+/t
+웃기는군
+/e
+
+/s
+Why the hell not? I've got you beaten anyway.
+/t
+하기사 왜 안 되겠어? 어차피 이길텐데 말야.
+/e
+
+/s
+What've you got?
+/t
+네 패, 가진게 뭐야?
+/e
+
+/s
+Wipe your mouth, Blackburn.
+/t
+입이나 닦아, 블랙번.
+/e
+
+/s
+That wasn't supposed to happen.
+/t
+이건 내가 바라던 방식은 아니지만
+/e
+
+/s
+But, you know, I'll be taking that plane anyway.
+/t
+그래도 뭐, 비행기는 내가 가져갈꺼야.
+/e
+
+/s
+What the...? Bloody hell!
+/t
+뭐? 이런 망할!
+
+/s
+You lost, I beat you!
+/t
+내가 널 이겼잖아!
+/e
+
+/s
+The thing is, Rackham, it's a very beautiful aeroplan and-
+/t
+문제는 말야, 비행기가 정말 잘 빠졌다는 것이고
+/e
+
+/s
+-you're kind of a jack-ass.
+/t
+넌 좀 등신이라는거야.
+/e
+
+/s
+I beat you fair and square, goddamnit, stay the hell away from my kite!
+/t
+내가 정정당당하게 이겼잖아! 내 비행기에서 떨어져!
+/e
+
+/s
+You bastard! You can't do this to me, I beat you!
+/t
+이 망할 자식이! 나한테 이럴 순 없어! 내가 이겼어!
+/e
+
+/s
+I beat you!
+/t
+내가 이겼다고!
+/e
+
+/s
+My name's Clyde Blackburn. I'm a pilot and a gambler.
+/t
+내 이름은 클라이드 블랙번. 파일럿이자 도박사지.
+/e
+
+/s
+I'm George Rackham! I'm George bloody Rackham, listen to me!
+/t
+내가 조지 래컴이라고! 내 말 들어!
+/e
+
+/s
+You bastard! Keep off my aeroplane!
+/t
+이 망할자식아! 내 비행기에서 떨어져!
+/e
+
+/s
+If you ask me to name my biggest fault, I'd have to tell you-
+/t
+내 가장 큰 흠이 뭐냐면..
+/e
+
+/s
+-I'm just not a very honest person.
+/t
+난 그다지 정직한 사람이 아니라는 거지.
+/e
+
+/s
+Welcome aboard!
+/t
+탑승을 환영한다!
+/e
+
+/s
+I'm Willson, by the way. you must be George Rackham.
+/t
+내 이름은 윌슨이야, 그쪽은 분명 조지 래컴이겠군
+/e
+
+/s
+Sure, I'm Rackham. I'm your guy.
+/t
+그래. 내가 그 파일럿이야.
+/e
+
+/s
+Come on, let's get this kite up in the air.
+/t
+자, 비행기 좀 띄워 보자고
+/e
+
+/s
+You're George Rackham? Son of fourth Earl of Windsor?
+/t
+윈저 백작 넷째 아들인 조지 래컴 맞지?
+/e
+
+/s
+That's right! Pip-pip, old bean!
+/t
+그래 맞아! 어이 출발하세!
+/e
+
+/s
+Blackburn: The Bristol was everything it was advertised to be, a pure joy to fly.
+/t
+브리스톨 전투기는 이름에 맞게 비행이라는 즐거움을 주지
+/e
+
+/s
+Blackburn: It was a crisp, sunny day and everything would have been perfect had i only been alone.
+/t
+혼자였다면 모든 것이 완벽한 화창한 날이었어.
+/e
+
+/s
+Blackburn: Hey back there. It's a great day for a picnic, don't you think?
+/t
+소풍 가기 좋은 날씨지? 그렇지 않아?
+/e
+
+/s
+Wilson: Right. See that plane up ahead, you need to catch up with it!
+/t
+그래. 저 앞에 비행기 보이지? 저걸 따라잡아!
+/e
+
+/s
+Blackburn: Yeah, yeah. So listen, I know this little french place, maybe we pick up a couple of girls...
+/t
+그래 그래. 저기, 내가 아는 조그마한 곳이 있는데, 여자 몇 명을 꼬셔서..
+/e
+
+/s
+Wilson: What are you talking about, girls?! This is a test flight! You need to follow the route that plane is setting for you!
+/t
+무슨 소리야? 여자? 지금 시험 비행 중이라고! 저 비행기가 정해준 길로 따라가!
+/e
+
+/s
+Blackburn: Okay. you're the boss... apparently.
+/t
+알았어. 여기선 네가 왕인 것 같으니..
+/e
+
+/s
+Wilson: Now let's get a feel for the yoke, stay close on his tail!
+/t
+이제 조종간의 감각을 익혀보자, 뒤에 딱 붙어서 가!
+/e
+
+/s
+Wilson: Alright, keep this distance.
+/t
+좋아, 이 거리를 유지해.
+/e
+
+/s
+Blackburn: Hang on, Wingnut!
+/t
+꽉 잡아! 윙넛!
+/e
+
+/s
+Blackburn: Piece of cake!
+/t
+식은 죽 먹기네
+/e
+
+/s
+Wilson: Let's see how she handles in a gunfight. Guns are on safe just in case you get some fancy ideas!
+/t
+자, 이제 공중전은 어떤지 볼까. 네가 혹시 이상한 생각 할까봐 총은 잠궈놨어!
+/e
+
+/s
+Blackburn: You're starting to get me! How sweet!
+/t
+이제 날 이해하기 시작했구나! 자상한걸!
+/e
+
+/s
+Wilson: The Bristol will handle like the other planes. Less throttle means you can make tighter turns.
+/t
+브리스톨 비행기는 다른 비행기처럼 속도를 낮추면 급선회 할 수 있어
+/e
+
+/s
+Wilson: Don't let him get away!
+/t
+놓치지마!
+/e
+
+/s
+Blackburn: Let's see  what else he's got.
+/t
+또 뭘 할줄 아는지 볼까?
+/e
+
+/s
+Wilson: Just stay with him!
+/t
+그냥 따라가기나 해
+/e
+
+/s
+Wilson: Open the throttle and stay on him!
+/t
+속도를 올리고 따라가!
+/e
+
+/s
+Blackburn: I'm having fun! Are you having fun yet, Wingnut!?
+/t
+재밌는걸! 너도 재미 좀 보고있어? 윙넛?
+/e
+
+/s
+Wilson: It's Wilson! And pay attention! Eyes forward!
+/t
+내 이름은 윌슨이야! 그리고 집중해! 앞을 보라고!
+/e
+
+/s
+Wilson: Good flying, though some of it wasn't exactly by the book!
+/t
+교본대로는 아니지만 나쁘지 않은 비행인데!
+/e
+
+
+/s
+Blackburn: So toss the damn book and live a little! Where's he going now?!
+/t
+교본 같은 건 집어 치우고 좀 즐겨! 이제 어디로 가야해?
+/e
+
+/s
+Wilson: Leave him! See those target balloons!? Weapons check. Fire at will.
+/t
+이제 저 사람은 두고, 저기 열기구 보이지? 쏘도록 해!
+/e
+
+/s
+Blackburn: I can do that.
+/t
+할 수 있지
+/e
+
+/s
+Blackburn: Yeah! This is one heck of a kite!
+/t
+와! 이 비행기 물건인데!
+/e
+
+/s
+Wilson: There are still more ballons, move in and fire!
+/t
+아직 목표가 남아있잖아! 쏴버려!
+/e
+
+/s
+Blackburn: Roger that!
+/t
+알았어!
+/e
+
+/s
+Wilson: You see those targets on the ground?
+/t
+지상의 목표가 보여?
+/e
+
+/s
+Blackburn: Yeah I see them!
+/t
+그래, 보여
+/e
+
+/s
+Wilson: Try using the rockets on them, get a feel for hitting ground targets.
+/t
+이번엔 로켓을 사용해서 없애버려, 지상 목표 타격의 감을 익혀
+/e
+
+/s
+Wilson: Okay, that's the last one!
+/t
+좋아, 그게 마지막이야!
+/e
+
+/s
+Wilson: So. Can I ask you a question?
+/t
+이제 뭐 좀 물어봐도 될까?
+/e
+
+/s
+Blackburn: Sure!
+/t
+물론!
+/e
+
+/s
+Wilson: Why does George Rackham, son of the fourth Farl of windsor, sound like an American?!
+/t
+윈저 백작의 넷째 아들이라는 조지 래컴이, 왜 미국 억양이지?
+/e
+
+/s
+Blackburn: I pick up accents easily. Probably be speaking French by the time We've got the Jerry's beat.
+/t
+내가 억양을 빨리 습득하거든. 전쟁이 끝날때쯤이면 프랑스어를 할지도 모르겠는걸
+/e
+
+/s
+Wilson: ...I see!
+/t
+..그렇군
+/e
+
+/s
+Blackburn: You're a very suspicious man, Wilson. Has anyone ever told you that?!
+/t
+의심이 많구나 윌슨. 다른 사람이 이런 말해 준 적은 없어?
+/e
+ 
+/s
+Jesus Christ, Germans! What do we do?
+/t
+맙소사, 독일군이다! 어쩌지?
+/e
+
+/s
+What do you think? We shoot them down.
+/t
+어쩌긴? 격추해야지.
+/e
+
+/s
+Wilson: What the-!
+/t
+이런-!
+
+
+/s
+Blackburn: Jerry is playing for keeps, hold on!
+/t
+제법 사나운 놈들인걸, 꽉 잡아!
+/e
+
+
+/s
+Wilson: Watch for the debris!
+/t
+잔해 조심해!
+/e
+
+/s
+Blackburn: Damn!
+/t
+젠장!
+/e
+
+/s
+Wilson: Bloody hell! this is. Really. Bloody. Dangerous!
+/t
+이런 세상에! 이건 진짜로. 개같이. 위험하다고!
+/e
+
+/s
+Blackburn: Not today!
+/t
+오늘은 아닐거다!
+/e
+
+/s
+Wilson: You got'im! You got'im!
+/t
+격추했어! 격추했다고!
+/e
+
+/s
+Blackburn: Yeah! Come on, boys! Who's next!?
+/t
+좋아! 자, 다음은 누구냐!
+/e
+
+/s
+Wilson: Looks like there's only one left!
+/t
+마지막 한 놈 남았다!
+/e
+
+/s
+Wilson: That was too close for comfort!
+/t
+정말 아슬아슬했어!
+/e
+
+/s
+Blackburn: You can say that again!
+/t
+완전 동감이야!
+/e
+
+/s
+Wilson: Stop flying in a straight line! They're trying to get behind us!
+/t
+일직선으로 날지마! 놈들이 뒤를 노리고 있어!
+/e
+
+/s
+Wilson: Was that the engine?! Giving her the gun might have throw something off!
+/t
+엔진 문제인가? 빨리 좀 돌렸더니 문제가 생겼어!
+/e
+
+/s
+Wilson: Repair what you can from up front!
+/t
+앞에서 고칠 수 있는 건 고쳐봐!
+/e
+
+/s
+Wilson: More Jerries!
+/t
+독일군이다!
+/e
+
+/s
+Blackburn: I see'em! Hang onto your knickers! 
+/t
+나도 보여! 난리 좀 그만떨어!
+/e
+
+/s
+Wilson: Friendly hit!! He's going down!
+/t
+아군이 당했다! 추락하고 있어!
+/e
+
+/s
+Wilson: Another one down!
+/t
+한 놈 더 잡았다!
+/e
+
+/s
+Wilson: Fritz is on our tail, move  move!
+/t
+뒤에 붙었어! 어서 움직여!
+/e
+
+/s
+Wilson: Damn it!
+/t
+젠장!
+/e
+
+/s
+Wilson: That didn't sound so good!
+/t
+좋은 소리는 아닌 것 같은데!
+/e
+
+/s
+Wilson: We're takin damage!
+/t
+공격 받고있다!
+/e
+
+/s
+Wilson: That's one down!
+/t
+한 놈 더 격추했다!
+/e
+
+/s
+Wilson: I don't like the sound of that!
+/t
+저 소리 정말 듣기 싫은데!
+/e
+
+/s
+Wilson: Bloody hell!
+/t
+빌어먹을!
+/e
+
+/s
+Wilson: Put that in your pipe and smoke it!
+/t
+내가 말한 거 잘 새겨 들어!
+/e
+
+/s
+Blackburn: Ha! too easy! Hold onto your knickers, wingnut!
+/t
+너무 쉬운걸, 난리 좀 그만 떨어 윙넛!
+
+/s
+Wilson: Where do you think he's going?
+/t
+어디로 가는 것 같아?
+/e
+
+/s
+Blackburn: That way. And we're goin after him!
+/t
+저기다! 그리고 우리도 쫓아간다!
+/e
+
+/s
+What are you doing? We should turn back!
+/t
+뭐 하는 거야? 돌아가야지!
+/e
+
+/s
+Ah, to hell with base
+/t
+뭐 될 대로 되라지
+/e
+
+/s
+Pull up.
+/t
+당겨.
+/e
+
+/s
+Pull up!
+/t
+당겨!
+/e
+
+/s
+Take cover!
+/t
+엄폐해!
+/e
+
+/s
+Well, look at that!
+/t
+저길 봐!
+/e
+
+/s
+You okay?
+/t
+괜찮아?
+/e
+
+/s
+Yeah, I'm okay.
+/t
+그래, 괜찮아
+/e
+
+/s
+Let's get these pictures back to base immediately!
+/t
+어서 이 사진들을 기지로 가져가자!
+/e
+
+/s
+That's how we accidentally discovered where Germans were keeping their munitions for half the Wester Front-
+/t
+그렇게 우연히 서부 전선 독일군의 군수품 절반을 발견하게 된거야.
+/e
+
+/s
+-and Wilson's pictures would help HQ luanch a major assault.
+/t
+그리고 윌슨의 사진이라면 본부에서 대공격을 가하겠지.
+/e
+
+/s
+There was just one problem.
+/t
+그렇지만 문제가 하나 있었어
+/e
+
+/s
+I'm not sure about this.
+/t
+잘 모르겠어
+/e
+
+/s
+Oh, come on. We did a great thing. We'll get medals for this.
+/t
+야, 이건 정말 대단한 일이야. 우린 이걸로 훈장을 받을거라고
+/e
+
+/s
+We weren't even supposed to be there!
+/t
+우리는 애초에 거기로 가면 안 되는 거였어!
+/e
+
+/s
+When the Commander sees these pictures, he won't care.
+/t
+지휘관이 이 사진만 본다면, 신경 쓰지도 않을 거야.
+/e
+
+/s
+We did a great thing.
+/t
+우린 엄청난 일을 한거라고
+/e
+
+/s
+We can do it again.
+/t
+우리가 할 수 있어
+/e
+
+/s
+I'll make you a deal.
+/t
+제안 하나 하겠어
+/e
+
+/s
+If we pal up on this then you need to promise me-
+/t
+만약 이 일을 같이 할거라면, 약속 하나 해
+/e
+
+/s
+-that you'll get me back in one piece.
+/t
+날 몸 성히 돌아오게 해주는거다
+/e
+
+/s
+Sure Thing.
+/t
+물론이지
+/e
+
+/s
+Promise. I need your word.
+/t
+약속한다고 해줘
+/e
+
+/s
+Okay, I promise.
+/t
+그래 약속할게
+/e
+
+/s
+Stay here. And don't cause any trouble.
+/t
+여기 있어. 문제 일으키지 말고
+/e
+
+/s
+You know, I did like the guy, but he was kinda naive.
+/t
+맘에 드는 녀석이긴 한데, 좀 순진한 구석이 있어
+/e
+
+/s
+Sir. You might wanna take a look at these.
+/t
+지휘관님, 이것 좀 보십시오
+/e
+
+/s
+Saints alive! Your man must be one hell of a pilot!
+/t
+이런 세상에! 자네들 정말 대단한 조종사군!
+/e
+
+/s
+Blackburn: Before we knew to we were back in the air.
+/t
+전투기에 타는 시간은 오래 걸리지 않았다.
+/e
+
+/s
+Blackburn: Our mission: to clear the way for the bombers so they could blow that fortress all to hell
+/t
+우리의 임무는 폭격기의 길을 열어 요새를 날려버리는 것이다.
+/e
+
+/s
+Blackburn: First we'd have to down their barrage blimps.
+/t
+일단 방공 기구를 추락시켜야 해
+/e
+
+/s
+Blackburn: Jesus, Imagine being a lookout on a blimp. Bad luck, Fritz.
+/t
+기구에서 망 보고 있을 운 없는 독일놈을 생각하니 불쌍하군
+/e
+
+/s
+Blackburn: Next, we'd have to deal with their anti-aircraft trucks.
+/t
+다음은 대공 트럭을 처리해야 해.
+/e
+
+/s
+Blackburn:The assault was already in full swing when we got there.
+/t
+우리가 도착했을 때 이미 공격은 진행 중이었어.
+/e
+
+/s
+Blackburn: We'd have to deal with all those defenses, then escort our bombers to the target when they arrived.
+/t
+모든 방어시설을 처리하고, 폭격기가 도착할 때까지 보호해야 해
+/e
+
+/s
+Blackburn: Tall order. But victory here could change the course of the whole damn war, they said.
+/t
+어려운 명령이지만, 이번 승리로 전세 자체를 바꿀 수 있다고 하더라고
+/e
+
+/s
+Blackburn: Safe to say, Wilson was less than thrilled.
+/t
+윌슨이 별로 탐탁지 않다는 걸 한 눈에 알 수 있었다
+/e
+
+/s
+Wilson: Now we're actually doing this, it feels really dangerous.
+/t
+이제 진짜 하는거라니 정말 위험이 느껴져
+/e
+
+/s
+Blackburn: Trust me. And buckle yourself in maybe.
+/t
+날 믿어, 안전띠나 잘 매고 있어
+/e
+
+/s
+Wilson: Down those blimps, clear the way for our bombers!
+/t
+저 기구를 추락시켜서 길을 열어야해!
+/e
+
+/s
+Blackburn: Easy enough. Watch my back!
+/t
+알았으니까 내 뒤나 봐줘!
+/e
+
+/s
+Wilson: There is one behind us!
+/t
+뒤에 하나 붙었어!
+/e
+
+/s
+Blackburn: Whooo! Fourth of July!
+/t
+와! 폭죽놀이 같은데!
+/e
+
+/s
+Wilson: Alright, don't get carried away.
+/t
+좋긴한데, 너무 흥분하진말라고
+/e
+
+/s
+Wilson: Flak guns taking positions below!
+/t
+대공포가 지상에 자리 잡고 있다!
+/e
+
+/s
+Blackburn: I see them!
+/t
+나도 보여!
+/e
+
+/s
+Wilson: Let's put them out of action, quickly!
+/t
+어서 처리해 버려!
+/e
+
+/s
+Wilson: You got him!
+/t
+잡았다!
+/e
+
+/s
+Wilson: Enemy at 6 o'clock, shake him off!
+/t
+6시 방향 적기 출현! 따돌려 버려!
+/e
+
+/s
+Wilson: Come on! We have to do something about those flak guns!
+/t
+서둘러! 저 대공포들을 처리해야 한다고!
+/e
+
+/s
+Wilson: Just a few of those buggers left!
+/t
+저 새끼들 얼마 안 남았어!
+/e
+
+/s
+Wilson: Nice work there!
+/t
+잘했어!
+/e
+
+/s
+Blackburn: We got it!
+/t
+잡았다!
+/e
+
+/s
+The bombers are here!
+/t
+폭격기가 왔다!
+/e
+
+/s
+Wilson: Follow the bomber formation in! Keep those fighters off of them!
+/t
+폭격기 대형을 따라가! 적기들이 가까이 붙게 하지 마!
+/e
+
+/s
+Wilson: We have anti-air taking positions below!
+/t
+대공포가 자리를 잡고 있어!
+/e
+
+/s
+Wilson: Those trucks will wreak havoc on our bombers!
+/t
+저 트럭들이 우리 폭격기를 박살낼거야!
+/e
+
+/s
+Wilson: Why? Whhhhy!?
+/t
+왜? 도대체 왜!?
+/e
+
+/s
+Wilson: Bloody hell!
+/t
+이런 빌어먹을!
+/e
+
+/s
+Wilson: Fighter down!
+/t
+적기 추락!
+/e
+
+/s
+Wilson: We've lost a bomber! They have to make it to the fortress or this mission is bust!
+/t
+아군 폭격기가 추락한다! 폭격기가 요새에 닿지 못한다면 이 미션은 망한다고!
+/e
+
+/s
+Blackburn: I know! I know!
+/t
+나도 알아!
+/e
+
+/s
+Wilson: Fighter's done fo
+/t
+적기가 추락한다!
+/e
+
+/s
+Wilson: What a belter!
+/t
+멋진 광경인데!
+/e
+
+/s
+Blackburn: The fortress is taking a pounding! Not much left of it now!
+/t
+요새가 무너진다! 얼마 남지 않았어!
+/e
+
+/s
+Wilson: Stay on the fighters until the next wave rolls in!
+/t
+다음 폭격기가 올때까지 적기를 상대하자고!
+/e
+
+/s
+Blackburn: Krauts just keep their fighters coming don't they!
+/t
+독일놈들이 계속 오네 안그래?
+/e
+
+/s
+Wilson: Still more anti-air out there!
+/t
+아직 처리하지 못한 대공포가 많아!
+/e
+
+/s
+Wilson: Oi! Piss off! Just piss off!
+/t
+꺼져! 꺼져버리라고!
+/e
+
+/s
+Blackburn: We're still in one piece!
+/t
+우린 아직 멀쩡해
+/e
+
+/s
+Wilson: Help our boys and clear those anti-air guns!
+/t
+아군을 돕고 저 대공포들을 처리해!
+/e
+
+/s
+Wilson: Yes, made it throught!
+/t
+좋아! 성공했어!
+/e
+
+/s
+Oh, shit! We're hit!
+/t
+젠장! 맞았다!
+/e
+
+/s
+I got this. Hang on!
+/t
+꽉 잡고 있어!
+/e
+
+
+/S
+the bird was busted she buried her nose
+/t
+비행기는 박살났다.
+/e
+
+/S
+and no-man's land a half mile due west
+/t
+내가 내린 곳에서 반 마일 떨어진 무인지대에 추락했지
+
+/e
+
+/S
+of where I went down Wilson the poor sap
+/t
+윌슨은 살아남지 못했다. 불쌍한 녀석
+
+/e
+
+/S
+didn't make it out that was his bad luck
+/t
+운이 없는 탓이겠지
+/e
+
+/S
+I
+/t
+나는 그보다 더 심각한 문제가 있었다.
+/e
+
+/S
+I had more pressing problems
+/t
+
+/e
+
+
+/S
+despite hope well unleash on beat up
+/t
+요행을 바라고있다
+/e
+
+
+
+/S
+I'm just gonna say I've had plenty of
+/t
+솔직하게 말해서 조용히 움직이는건 많이 해봤다고
+/e
+
+
+
+/S
+practice moving quietly out the back of
+/t
+술집뒤, 침실 창문에서 말이야.
+/e
+
+
+
+/S
+bars bedroom windows you don't need the
+/t
+자세한 내용은 몰라도 돼
+/e
+
+
+
+/S
+details anyway once those Germans were
+/t
+어쨌든, 독일군이 지나가고 나면
+/e
+
+
+
+/S
+gone I put my skills to work heading
+/t
+내가 가진 기술을 써먹어야겠어
+/e
+
+
+
+/S
+west towards the British front quiet as
+/t
+도둑고양이 처럼 조용히 서쪽의 영국진영으로 이동해야해
+/e
+
+
+
+/S
+an alley cat between me and the British
+/t
+나와 영국군 사이에는 
+/e
+
+
+
+/S
+front or German trenches and German guns
+/t
+독일군 참호와 기관총이 있지
+/e
+
+
+
+/S
+oh and half the population of Berlin all
+/t
+아참 그리고 "베를린 절반"에 달하는 병력도 말이야 
+/e
+
+
+
+/S
+spoiling for a fight
+/t
+전투에 김빠지게..
+/e
+
+
+
+/S
+my lucky day the Brits must have been
+/t
+운이 정말 좋군
+/e
+
+
+
+/S
+sitting down for tea and crumpets
+/t
+영국군은 포격대신  
+/e
+
+
+
+/S
+instead of shelling the Germans still I
+/t
+앉아서 차와 머핀을 즐기고 있나보군
+/e
+
+
+
+/S
+had to get through to our side of the
+/t
+그래도 포격이 떨어지기전에 
+/e
+
+
+
+/S
+line before those guns started up again
+/t
+아군진영으로 이동해야해
+/e
+
+
+
+/S
+goodbye
+/t
+잘자라 
+/e
+
+
+
+/S
+those trenches were packed full of the
+/t
+저 참호에는 "독일 황제"의 잘난 병사들로 가득 차있어,
+/e
+
+
+
+/S
+kaisers finest but hopefully most of them would be looking for trouble coming the other way
+/t
+하지만 대부분 적군쪽을 바라보고 있지
+/e
+
+
+
+/S
+ hopefully
+/t
+그러길 바래야지.
+/e
+
+
+/S
+the dozen German machine guns at my back
+/t
+내 뒤에 십여정의 독일 기관총이 
+/e
+
+
+
+/S
+kind of encouraged me to keep my head down
+/t
+머리를 못들게 응원하는구만
+/e
+
+
+
+/S
+no-man's land was amazed at barbed wire dead bodies and debris
+/t
+"무인지대"는 철조망 미로에 시체와 파편이 즐비하지   
+/e
+
+
+
+/S
+But I held my course
+/t
+하지만 난 길을 잃지 않았다.
+/e
+
+
+
+/S
+did anything survive the crash that might be useful 
+/t
+이 추락지점에 뭔가 건질만한 것이 있을까.
+/e
+
+
+
+/S
+Wilson! We're in no-man's land we need to go now
+/t
+윌슨! 여긴 무인지대야. 여기서 당장 나가야해
+/e
+
+
+
+/S
+I can't get up 
+/t
+못 일어 나겠어.
+/e
+
+
+
+/S
+hey hey 
+/t
+이봐! 야!
+/e
+
+
+
+/S
+I'm sorry
+/t
+미안해 
+/e
+
+
+
+/S
+But you promise to get me back in one piece
+/t
+날 몸성히 데려다 준다고 약속했잖아!!
+/e
+
+
+
+/S
+Just keep it down!
+/t
+좀 조용히해
+/e
+
+
+
+/S
+what about medals? What about being heroes?
+/t
+훈장은 어떻게 된거야? 영웅이 되겠다고한건?
+/e
+
+
+
+/S
+I'm not hero
+/t
+난 영웅이 아냐
+/e
+
+
+
+/S
+but you gave me your word, you'll bleed your word
+/t
+하지만 네 입으로 약속했잖아, 네 말에 책임져야지
+/e
+
+
+
+/S
+So either you're a decent bloke who's gonna help me
+/t
+그러니 날 도와주는 사람다운 사람이 되거나 
+/e
+
+
+
+/S
+or you are a lying, no good bastard
+/t
+아님 거짓말이나 하는 개새끼야
+/e
+
+
+
+/S
+who'll look me in the eye and finish it!
+/t
+내 눈을 바라보고 끝내버리라구 
+/e
+
+
+
+/S
+Come one, which is it?
+/t
+해봐! 어느쪽이야!
+/e
+
+
+
+/S
+Put your cards on the table, Blackburn
+/t
+가진걸 다 털어놔봐, 블랙번!
+/e
+
+
+
+/S
+You're not George Rackham, are you?
+/t
+너 조지 랙컴이 아니지? 그렇지? 
+/e
+
+
+
+/S
+son of the fourth bloodier Earl of windsor?
+/t
+윈저 백작의 넷째 아들이라고?
+/e
+
+
+
+/S
+How naive do you think i am?
+/t
+내가 그렇게 순진하게 보여?
+/e
+
+
+
+/S
+let's get out of here
+/t
+여기서 나가자!
+/e
+
+
+
+/S
+the guy was losing a lot of blood.
+/t
+피를 많이 흘리고 있었다.
+/e
+
+
+
+/S
+i didn't have much time to get him back alive
+/t
+이 친구를 살릴수 있는 시간이 촉박했다.
+/e
+
+
+
+/S
+...ahhhh... it really bloody hurts...
+/t
+으윽... 엄청나게 아프다구..
+/e
+
+
+
+/S
+Look...Jerry raiders moving to our lines...
+/t
+저것봐 독일놈들이 우리 전선으로 이동하고 있어
+/e
+
+
+
+/S
+Ther Germans aren't really known for giving up. 
+/t
+독일군은 좀처럼 포기하지 않았다.
+/e
+
+
+/S
+They did everything they could to catch us.
+/t
+우리를 잡기위해 모든 방법을 동원했다.
+/e
+
+
+
+/S
+Avoid those spotlights..
+/t
+저 탐조등을 피해야해 
+/e
+
+
+
+/S
+MG's are trained on'em...They'll shoot at anything
+/t
+기관총이 따라다닌다구, 보이는건 뭐든 쏘고 볼꺼야.
+/e
+
+
+
+/S
+...Lights...our boys will think..We're Germans..
+/t
+탐조등이다..아군이 우릴보고 독일군이라고 생각할꺼야.
+/e
+
+
+
+/S
+Nearly there
+/t
+거의 다 도착했어!
+/e
+
+
+
+/S
+We made it...we..made it..
+/t
+해냈다!! 해냈다고!
+/e
+
+
+
+/S
+Wilson said I was a no-good lying son of a bitch
+/t
+윌슨은 날 더러 거짓말하는 개자식이라고 했다.
+/e
+
+
+
+/S
+I Brought him home because I think he's probably right-
+/t
+내가 그 녀석을 집으로 데려온 이유는, 그 녀석이 옳았기 때문이다.
+/e
+
+
+
+/S
+and i hate that fact more than i can tell you
+/t
+그 사실이 너무도 싫었다.
+/e
+
+
+
+/S
+He carried that man through no-man's land? 
+/t
+저 친구를 무인지대에서 데리고 왔다구?
+/e
+
+
+
+/S
+This guy's a bloody hero!
+/t
+이 자식 완전 영웅이구만!
+/e
+
+
+
+/S
+No, he's nothing of the sort
+/t
+아니 전혀 그런 놈이 아니지
+/e
+
+
+
+/S
+he's a cheats, a thief and a liar and he'll answer for his crimes
+/t
+사기꾼에, 거짓말이나 하는 도둑이야. 그리고 자기 범죄에 댓가를 치뤄야지.
+/e
+
+
+
+/S
+that's right Blackburn
+/t
+그래 블랙번
+/e
+
+
+
+/S
+off to the farm, are you?
+/t
+농장으로 가는거야?
+/e
+
+
+
+/S
+i'm gonna speak out for you, you know, you know at the court-martial
+/t
+내가 잘 마말해줄게. 알지? 법정에서 말이야.
+/e
+
+
+
+/S
+I doubt it, but thanks.
+/t
+통할지 모르겠지만 뭐 고마워.
+/e
+
+
+
+/S
+Wilson, with me. i need a gunner
+/t
+윌슨! 나와 같이 가지. 후방사수가 필요해.
+/e
+
+
+
+/S
+Over here! I'll do it. Rackham, let me help.
+/t
+여기! 내가 할께. 랙컴. 돕게 해줘
+/e
+
+
+
+/S
+You don't deserve to fly
+/t
+넌 출격할 자격이 없어!
+/e
+
+
+
+/S
+Incoming!
+/t
+공습이다!!
+/e
+
+
+
+/S
+Wilson if I'm gonna die I'm gonna die up there
+/t
+윌슨! 내가 죽게되면 하늘에서 죽을꺼야!
+/e
+
+
+
+/S
+come on let's do this
+/t
+가자! 해보자고!
+/e
+
+
+
+/S
+you sure you don't wanna sit this one out?
+/t
+너 정말 여기서 빠지고 싶지않아?
+/e
+
+
+
+/S
+not a chance
+/t
+그럴 일 없어!
+/e
+
+
+
+/S
+You owe me a bloody medal.
+/t
+너 나한테 훈장하나 빛졌어
+/e
+
+
+
+/S
+Alright i got this, are you with me?
+/t
+좋아 한번 해보자고, 같이 가는거지?
+/e
+
+
+
+/S
+of course I'm bloody with you
+/t
+당연히 같이 하는거지
+/e
+
+
+
+/S
+Fighters on their way! I'll cover our tail!
+/t
+파이터가 다가온다! 후방은 내가 보겠어
+/e
+
+
+
+/S
+Bandit on our 6!
+/t
+적기가 6시 방향에 있다!
+/e
+
+
+/S
+Turn hard!
+/t
+급선회!
+/e
+
+
+
+/S
+Taking fire
+/t
+사격!
+/e
+
+
+/S
+Watch it
+/t
+조심해 
+/e
+
+
+/S
+down
+/t
+격추!
+/e
+
+
+
+/S
+that was some bloody good flying well
+/t
+엄청난 비행술이군!
+/e
+
+
+
+/S
+shit bombers incoming
+/t
+빌어먹을 폭격기가 온다!
+/e
+
+
+
+/S
+keep your speed up and use altitude!
+/t
+속도를 유지하고 고도를 이용해!
+/e
+
+
+
+/S
+The bombers are the threat! We have to take them down!
+/t
+폭격기가 큰 위협이야. 모두 제거해야해 
+/e
+
+
+
+/S
+Jesus Christ
+/t
+아이고 하느님!
+/e
+
+
+
+/S
+yeah
+/t
+좋아!
+/e
+
+
+
+/S
+hold on
+/t
+꽉 잡아!
+/e
+
+
+
+/S
+we're hit
+/t
+피격 당했다!
+/e
+
+
+
+/S
+incoming fire
+/t
+사격 받고 있다!
+/e
+
+
+
+/S
+Right behind us!
+/t
+우리 바로 뒤에 있어!
+/e
+
+
+
+/S
+One bomber left! Roll in on him!
+/t
+마지막 폭격기가 남았어! 기동해!
+/e
+
+
+
+/S
+He's taking a dive
+/t
+떨어진다!
+/e
+
+
+/S
+Whoah
+/t
+워우
+/e
+
+
+
+/S
+we got trouble
+/t
+문제가 생겼어
+/e
+
+
+
+/S
+oh no! Don't you be getting any ideas!
+/t
+이런 젠장! 이상한 생각하지마!
+/e
+
+
+/S
+you did say you wanted a medal, didn't you
+/t
+너 훈장 받고 싶다고 하지 않았어?
+/e
+
+
+/S
+That blasted airship will be over London soon!
+/t
+저 망할 비행선은 곧 런던에 도착할거야!
+/e
+
+
+/S
+one of manymore targets. Hang on!
+/t
+타겟 중에 하나일 뿐이야. 꽉 잡아!
+/e
+
+
+
+/S
+Gondola is coming loose! watch out!
+/t
+곤돌라가 떨어진다! 조심해!
+/e
+
+
+
+/S
+This whole thing's gonna go up like a Roman candle
+/t
+비행선 전부가 폭죽처럼 터질거야
+/e
+
+
+/S
+He's got position us!
+/t
+우리를 조준하고 있어!
+/e
+
+
+
+/S
+Heads Up!
+/t
+조심해!
+/e
+
+
+/S
+Come one girl, hold together!
+/t
+좋아! 조금만 더 버텨줘!
+/e
+
+
+
+/S
+It's on fire! Is it gonna explde?!
+/t
+불 붙었어! 터지려나??
+/e
+
+
+/S
+AA gun!
+/t
+대공포다!
+/e
+
+
+/S
+Hold tight!
+/t
+꽉 잡아!
+/e
+
+
+
+/S
+Where you taking us!
+/t
+어디로 가려는거야!
+/e
+
+
+
+/S
+Come on, Fritz! Come on
+/t
+쏴봐! 이 독일놈아! 쏴보라고!
+/e
+
+
+/S
+haha
+/t
+하하!
+/e
+
+
+
+/S
+If i'm gonna die, i'm gonna die up there
+/t
+"내가 만약 죽는다면 하늘에서 죽을거야"
+/e
+
+
+
+/S
+You and your big mouth,
+/t
+하여튼 입이 방정이야
+/e
+
+
+
+/S
+You okay?!
+/t
+괜찮아?
+/e
+
+
+
+/S
+I'm okey
+/t
+괜찮아
+/e
+
+
+
+/S
+We need to take out that flak gun!
+/t
+저 대공포를 처리 해야 해!
+/e
+
+
+
+/S
+Okey! I've got your back
+/t
+알겠어! 내가 뒤를 봐줄게
+/e
+
+
+
+/S
+Alright, we got to get up there
+/t
+좋아! 저 위로 올라가야해
+/e
+
+
+/S
+Don't look down alright?!
+/t
+아래를 보지마!
+/e
+
+
+
+/S
+Just don't bloody look down!
+/t
+절대 보지 말라구.
+/e
+
+
+
+/S
+We gotta get the flak gun!
+/t
+저 대공포를 처리해야해!
+/e
+
+
+
+/S
+This is madness
+/t
+완전 미친짓이야.
+/e
+
+
+
+/S
+That gun is knocking seven shades out of our lot! 
+/t
+저 대공포가 우리 제공기를 7기나 격추했다고!
+/e
+
+
+
+/S
+We have to grab it!
+/t
+반드시 차지해야해
+/e
+
+
+
+/S
+I can't really see it, straight aahead? whoa!
+/t
+하나도 안보여! 바로 앞에 있는건가?
+/e
+
+
+
+/S
+careful
+/t
+조심해!
+/e
+
+
+
+/S
+They're firing at us from everywhere
+/t
+사방에서 우릴 쏘고있어!
+/e
+
+
+
+/S
+We can't stay out here! Keep moving!
+/t
+여기에 있을수 없어! 움직여!
+/e
+
+
+
+/S
+I see him! He's over there!
+/t
+보인다! 저기 있어!
+/e
+
+
+
+/S
+That's the guy.
+/t
+저 자식이구나.
+/e
+
+
+
+/S
+Shit
+/t
+씨발.
+/e
+
+
+
+/S
+Hey! you Okey?
+/t
+이봐 괜찮아?
+/e
+
+
+
+/S
+I'm good, I'm ok!
+/t
+괜찮아!
+/e
+
+
+
+/S
+Find a way back up top!
+/t
+올라오는 길을 찾아봐!
+/e
+
+
+
+/S
+I'll head around to the flak gun!
+/t
+나는 대공포로 돌아서 갈거야!
+/e
+
+
+
+/S
+Ok I've got this-man
+/t
+알겠어. 
+/e
+
+
+
+/S
+Is that you?
+/t
+너야?
+/e
+
+
+
+/S
+Blackburn
+/t
+블랙번!!
+/e
+
+
+/S
+What's going on donw there?!
+/t
+무슨일이 벌어지고 있는거야?
+/e
+
+
+
+/S
+Keep it down! Every German on this damn balloon's gonna hear you!
+/t
+조용해! 이 비행선에 타고 있는 독일 놈들 다 듣겠다.
+/e
+
+
+
+/S
+Come one, Fritz! 
+/t
+덤벼라 독일놈들!
+/e
+
+
+/S
+Come and get it! My name's Clyde Blackburn!
+/t
+난 클라이드 블랙번이라고, 와서 날 잡아봐!
+/e
+
+
+/S
+I'm a pilot I'm a gambler!
+/t
+난 파일럿이고 도박꾼이라고!
+/e
+
+
+/S
+And I'm a stand-up kinda guy!
+/t
+난 믿을만한 그런 남자라고!!
+/e
+
+
+
+/S
+Yeah you too, you big bastard! come and get it!
+/t
+덩치 큰 녀석 너도 와서 날 잡아봐!
+/e
+
+
+
+/S
+We're square now, me and you!
+/t
+이제 비긴거다!
+/e
+
+
+/S
+Keep him busy!
+/t
+계속 싸워!!
+/e
+
+
+
+/S
+shoot the damn airship! 
+/t
+빌어먹을 비행선을 쏴!
+/e
+
+
+/S
+Wow
+/t
+와우.!
+/e
+
+
+/S
+What the hell?
+/t
+이런 씨...
+/e
+
+
+/S
+And that's my story. 
+/t
+이게 내 이야기다.
+/e
+
+
+
+/S
+A selfish man who risked his own life to save another
+/t
+이기적인 남자가 자신의 목숨을 걸고 타인을 구하고
+/e
+
+
+/S
+and in doing so, found he was saved himself.
+/t
+그렇게 해서, 자기 스스로를 구원한 이야기
+/e
+
+
+/S
+Things get mixed up in wartime though and you'll probably hear other versions.
+/t
+전쟁 통에는 혼동이 생기곤 하기 때문에 아마 다른 내용의 이야기를 듣겠지
+/e
+
+
+/S
+A rogue pilot who stole a plane
+/t
+한 사기꾼 조종사가 비행기를 훔치고
+/e
+
+
+/S
+who killed his buddy
+/t
+친구를 죽이고
+/e
+
+
+/S
+Then lied, cheated and murdered his way across half the Western Front
+/t
+거짓말하고 사기를 치고 서부 전선 절반을 종횡무진하며 살인을 저지르다
+/e
+
+
+/S
+only to escape court-martial in the chaos of air raid
+/t
+대규모 공습을 틈 타 재판을 피했다고 말이지
+/e
+
+
+/S
+But don't listen to any of that
+/t
+하지만 그런 이야기 믿지마.
+/e
+
+
+/S
+What you heard from me is truth
+/t
+내가 한 이야기가 진실이야.
+/e
+
+
+/S
+I wouldn't tell it you if it wasn't
+/t
+사실이 아니었다면 얘기 하지도 않았어
+/e
+
+
+/S
+Would I
+/t
+그랬을까?
+/e
+
+
+**** 여기까지 검수했습니다 *****
+
+
+/s
+Fall 1918, Italian Dolomites
+/t
+1918년 가을, 이탈리아 돌로미티
+/e
+
+/s
+Italian and Austrian - Hungarian across the Alps can not find a way to get both sides to push the enemy fell in deadlock
+/t
+이탈리아와 오스트리아-헝가리 제국은 알프스를 사이에 두고 교착에 빠졌다 양쪽 모두 적을 밀어낼 방법을 찾지 못한다 
+
+/e
+
+/s
+Elite mountain while the regulars are ready to seriously strengthen the anomalous attacks
+/t
+정규군이 진지를 강화하는 동안 산악 엘리트들은 변칙 공격을 준비한다 
+/e
+
+/s
+A high-risk tactical troops are called to dt
+/t
+고위험 전술 부대는 아르디티라 불렸다
+/e
+
+/s
+Dt is the motto are "win or you all die."
+/t
+그들의 좌우명은 "승리하거나 아니면 모두 죽는다" 이다
+/e
+
+/s
+Dad?
+/t
+아빠?
+/e
+
+/s
+You up there?
+/t
+위에 있어요?
+/e
+
+
+/s
+Are you alright? We're ready for you to cut the cake.
+/t
+괜찮으세요? 케익 자를 준비 됐어요.
+/e
+
+/s
+It's okay?
+/t
+괜찮아요?
+/e
+
+/s
+Ready cut the cake
+/t
+케익 자를 준비 됐어요
+/e
+
+/s
+Wow. These are incredible.
+/t
+우와. 대단한 사진인데요.
+/e
+
+
+/s
+Yes. It reckons truly great time
+/t
+그래. 참으로 대단한 시기였지
+/e
+
+/s
+You looked very handsome in that uniform.
+/t
+군복 입으니 정말 멋져 보여요
+/e
+
+/s
+That's not me. That's Matteo.
+/t
+내가 아니라 마테오란다
+/e
+
+/s
+Oh, of course. I'm sorry, dad. Take as long as you need.
+/t
+아, 그랬었죠. 미안해요 방해하지 않을게요.
+/e
+
+
+
+/s
+It's okay, tesoro. It's time i told you what happend to him.
+/t
+아니 괜찮단다. 이제 무슨 일이 있었는지 이야기 해줄때가 된 거 같구나.
+/e
+
+
+/s
+It was during our last battle together. Just a few days after our twenty-first birthday.
+/t
+동생과 함께한 마지막 전투였지. 불과 며칠만 더 지나면 우린 21살이 되었을 때란다.
+/e
+
+
+
+/s
+My brother's battalion had been ordered to capture a fort deep into enemy territory.
+/t
+내 동생의 부대는 적 진영안에 있는 요새를 탈환하라는 명령을 받았지
+/e
+
+/s
+I wasnt going with him.
+/t
+난 가지 않았어
+/e
+
+/s
+I was part of a special unit with a different mission.
+/t
+난 특수 부대원이었기 때문에 다른 임무가 있었지
+/e
+
+/s
+Our task was to support matteo's battalion.
+/t
+우리 임무는 메테오 부대를 지원하는 것 였어
+/e
+
+/s
+We were a proud unit. We changed the war for italy.
+/t
+우린 전쟁의 흐름을 바꿔 이탈리아를 도운 자랑스러운 부대였지.
+/e
+
+
+
+/s
+Are dt
+/t
+아르디티
+/e
+
+/s
+Soldier: We either win, or we all die!
+/t
+승리 아니면 죽음을!
+/e
+
+/s
+Luca: while Matteo was pushing forward, I had to fight up the mountain and take out anthing targething his unit.
+/t
+메테오가 진격하는 동안 방해하는 적을 처리하는 역할을 했지
+/e
+
+/s
+Becca: Just hearing this story makes me worried for you.
+/t
+이야기만 들어도 걱정돼요
+/e
+
+/s
+Luca: Don't worry! I was in a...a full suit of armor. Besides, the ardit were proud volunters, we would have done anything  for italy.
+/t
+걱정마라! 난 음.. 중갑옷을 입고 있었거든. 
+게다가 아르디티 부대는 이탈리아를 위해 어떤 일이든 해온 자부심이 강한 지원자들로 이루어진 부대란다.
+/e
+
+/s
+Luca: A church was sitting at the base of the path, enemy troops had fortified it, I had to fight them first.
+/t
+가는 길에 교회가 있었지, 적 부대는 그곳을 요새로 만들어 놓았었기 때문에 난 싸워야 했지.
+/e
+
+/s
+Luca: All that was left after the flame troops were some foot soldiers. After that, the church would be ours.
+/t
+화염방사병을 처리하곤 남은 것은 보병 몇 뿐이었지.
+그 후엔 교회가 우리게 될 상황이었지.
+/e
+
+
+
+/s
+Luca: There was an artillery gun that was shelling us and Metteo's unit. I had to destory it.
+/t
+적 포대가 우리와 메테오 부대를 포격했었지. 난 부셔야만 했었단다.
+/e
+
+
+/s
+Becca: He was still headding to the fort?
+/t
+동생분은 여전히 요새로 가고 있었나요?
+/e
+
+/s
+Luca: Right, I had to make sure he got there.
+/t
+맞어, 난 동생이 목적지에 갔는지 확인해야 했지.
+/e
+
+
+/s
+Luca: Matteo and the entire Italian offensive was in danger as long as that arillery gun remained. So, I had to take it down.
+/t
+적 포대가 있는 한 부대가 위험에 빠지므로 내가 제거해야 했지
+/e
+
+/s
+Luca: The only way to ensure that my men were safe was to blow up the gun itself.
+/t
+가장 확실한 방법은 포대 자체를 날리는 것이었어
+/e
+
+/s
+Luca: The explosion was one of the sweetest sight in this war for me.
+/t
+그 폭발이 이 전쟁에서 가장 달콤한 광경이었어
+/e
+
+/s
+Luca: But there was no rest. I could see an anti-aircraft gun over the next ridge that was taking out our planes.
+/t
+하지만 쉴 수 없었지, 다음 지점에 대공포가 아군의 비행기를 격추하고 있는걸 봤거든.
+/e
+
+
+/s
+Luca: The gun was manned by Austro-Hungarian troops, i had to remove them before i could use the gun myself.
+/t
+내가 대공포를 사용하기 전에 오스트리아-헝가리 부대원을 먼저 제거해야 했지
+/e
+
+/s
+I take down the last man, but then i hear a noise that i will never forget.
+/t
+마지막 적까지 모두 쓰러트렸지, 하지만 바로 뒤에 평생 잊지 못할 소리를 듣게 되었단다. 
+/e
+
+/s
+They were targeting matteo's unit below me, so i do the only thing i can.
+/t
+놈들이 마테오 부대를 노리고 있어서 내가 할 수 있는 걸 했어
+/e
+
+/s
+Luca: It was me against an entire enemy bombers squadron.
+/t
+나와 적 폭격기 부대의 대결이었지
+/e
+
+/s
+Luca: We had no reinforcements. If those men were killed, our advance would be completely halted. And would have lost Matteo.
+/t
+더이상의 지원군은 없었지, 대원들이 죽으면 전진은 완전히 중지될거야, 내 동생 또한 잃겠지.
+/e
+
+/s
+Luca: after the first few went down they started targeting me. I had to stand my ground.
+/t
+일부를 격추하자 날 공격하기 시작했지, 하지만 난 내 계속 싸워야 했단다.
+/e
+
+/s
+Armored cars are fully enclosed and protected from small arms fire. You must use explosive to destory them.
+/t
+장갑차는 개인 화기로는 잡을 수 없습니다. 폭팔물을 이용해 파괴하세요.
+/e
+
+/s
+were you still safe behind your armor?
+/t
+중무장 상태였나요?
+/e
+
+/s
+Of course, of course. Nothing could dent it.
+/t
+당연하지, 그 무엇도 날 막을 순 없었지.
+/e
+
+
+/s
+But then, the planes veered away.
+/t
+하지만 그 때 적기가 방향을 돌렸어
+/e
+
+
+/s
+When I got up, I thought i had died and gone to hell.
+/t
+일어났을때 난 이미 죽어서 지옥에 있는 줄 알았지.
+/e
+
+/s
+They blew up the mountain. They buried us. They buried themselves
+/t
+놈들이 산을 날려 버리고 우리 모두를 묻어 버렸지, 심지어 적들 조차도 묻어 버렸어.
+/e
+
+/s
+Oh my god... Matteo.
+/t
+오 세상에..마테오...
+/e
+
+/s
+I had to find him-so i went down into that hell.
+/t
+난 동생을 찾기 위해 그 지옥같은 곳으로 갔어야 했지.
+/e
+
+/s
+It was my only choice.
+/t
+유일한 길이었지
+/e
+
+/s
+Luca: I had to find Matteo. He could have been anywhere.
+/t
+마테오를 찾아야해. 그는 어딘가에 있을거야.
+/e
+
+/s
+Luca: I started with the first thing that came through the fog. There were allies pinned inside lodges. Ineeded to save them.
+/t
+내가 처음으로 한 것은 안개로 건물 안에 고립된 아군을 구하는 일이었지.
+/e
+
+/s
+Luca: We could hear them before we save them: armored vehicles coming from the enemy fort.
+/t
+우리는 적 장갑차가 적 요새에서 오고 있다는 걸 소리로 알 수 있었지.
+/e
+
+/s
+Becca: But you didn't have your equipmenet anymore
+/t
+하지만 상대할 무장이 없지 않았나요.
+/e
+
+/s
+Luca: There were crated of enemy weapons in the lodges that we scavenged and prepared ourselves with.
+/t
+건물 안에 버려진 무기를 이용해서 전투를 준비했지.
+/e
+
+/s
+Luca: Through sheer force of will, we took out their firepower. The lodges were safe. I had to move on.
+/t
+불굴의 의지만으로 적들을 몰아냈어. 이 지역은 안전해 졌기 때문에 난 다음 지역으로 이동해야 했단다.
+/e
+
+/s
+Becca: You never said, was matteo in those lodges?
+/t
+그 건물에 동생분은 안 계셨나요?
+/e
+
+/s
+Luca: No, The men said his unit had made if further up.
+/t
+없었단다, 이미 더 위쪽으로 이동했다고 하더구나.
+/e
+
+
+/s
+Luca: Every part of me wanted to get out of the trences, but i could hear italian yelling, i knew my frieds were trapped.
+/t
+이 지옥같은 곳에서 빨리 벗어나고 싶었지, 그 때 아군의 비명소리가 들렸단다. 아군이 함정에 빠졌다는 걸 알게 되었지.
+/e
+
+/s
+Luca: Everywhere I looked: too late. I felt alone among ghost.
+/t
+사방을 둘러 봤지만 이미 내가 늦었다는 걸 알게 되었단다. 마치 유령들 사이에 홀로 있는 느낌이었단다.
+/e
+
+/s
+Luca: After a while I couldn't even look at the bodies. He had to have made it to the fort.
+/t
+계속 시체를 보고 있을 순 없었단다. 동생은 이미 요새로 간거 같더구나.
+/e
+
+/s
+Luca: Some of the things I saw, tesoro... I had to convince myself I wasn't dead.
+/t
+거기서 본 것중 일부는... 내가 아직 살아 있다는 걸 느끼게 해줬단다.
+/e
+
+/s
+Becca: Like what?
+/t
+어느거 말이죠?
+/e
+
+/s
+Luca: Fire, fire everywhere.
+/t
+불타 있었단다. 온 사방이 불에 타고 있었지.
+/e
+
+/s
+Luca: There were two ways into the fort-I could either go through the underground tunnels or above ground by circling around the back.
+/t
+요새로 가는 방법은 두가지가 있었단다. 아래의 터널을 통해 가거나 뒤쪽으로 우회해서 가는 방법이었지.
+/e
+
+/s
+Becca: Not through the front?
+/t
+정면 돌파는 안 하셨고요?
+/e
+
+/s
+Luca: I no longer had my armor. it was impossible
+/t
+중장갑이 없기 때문에 자살행위나 마찬가지 였단다.
+/e
+
+
+/s
+Luca: I don't know how, I just knew Matteo wasn't there.
+/t
+마테는 거기 없었단다, 이유는 모르겠지만 아무튼 그렇게 느꼈단다.
+/e
+
+/s
+I still think about that field. Every day.
+/t
+난 아직도 그 전장을 잊지 못한단다.
+/e
+
+
+/s
+I'd almost stopped looking...
+/t
+찾는걸 거의 중단 했을 때...
+/e
+
+/s
+-started giving into the hope that Matteo had escaped.
+/t
+동생이 탈출 했을지도 모른다는 희망을 가지게 되었지.
+/e
+
+/s
+And then
+/t
+그리곤
+/e
+
+/s
+No! No!
+/t
+안돼! 안돼!
+/e
+
+/s
+He never got older.
+/t
+동생은 더이상 늙지 않게 됐지.
+/e
+
+/s
+And here i am, still
+/t
+그리고 난 아직 살아있고.
+/e
+
+/s
+who decides such things?
+/t
+누가 이런 운명을 정한걸까?
+/e
+
+/s
+Buon compleanno, Matteo.
+/t
+생일 축하한다. 마테오
+/e
+
+/s
+Upheaval followed the war. Empires collapsed. New countries were formed. The World and our view of it was changed forever.
+/t
+전쟁 뒤에 제국은 무너졌고 새로운 국가가 건설되었다 세계와 우리관점은 영원히 바뀌었다
+/e
+
+/s
+Families were changed not only by those they lost but also by those who returned. Both the fallen and the vetrans became known as the "Lost Generation".
+/t
+희생자 뿐 아니라 생존자들에 의해서도 가족은 바뀌었다
+희생된 자와 퇴역 군인은 "잃어버린 세대"가 되었다
+/e
+
+/s
+Spring 1915, gelibolu Peninsula Dardanelles
+/t
+1915년 봄, 겔리볼루 반도 다르다넬스 해협
+/e
+
+/s
+British Empire is trying to open a new front
+/t
+영국제국은 새로운 전선을 열려고 한다
+/e
+
+/s
+Unprecedented naval invasion was planned in the Ottoman naval attack in history was not the mainland largest
+/t
+전례없는 해 침입이 오스만 본토에 계획되었다 공격 해군력은 역사상 가장 큰 규모였다
+/e
+
+/s
+Australia, and New Zealand, Ireland, India, Newfoundland, France, soldiers, 5,000,000 came from Britain aboard the command was issued march to Constantinople
+/t
+호주, 뉴질랜드, 아일랜드, 인도, 뉴펀들랜드, 프랑스, 브리튼에서 온 병사 5백만이 승선했다 내려진 명령은 콘스탄티노플까지의 진군이었다
+/e
+
+/s
+first day
+/t
+첫째날
+/e
+
+/s
+By the River Clyde steamers were used as a Trojan horse crash ashore at Hella Les headland it was introduced Allied soldiers
+/t
+헬레스 곶에서 증기선 리버 클라이드가 트로이 목마로 쓰였다 해변에 충돌시켜 연합군 병사를 투입했다
+/e
+
+/s
+Beachhead was surrounded and killed two soldiers half
+/t
+상륙거점은 포위되고 병사 절반이 사망했다
+/e
+
+/s
+Second day
+/t
+둘째날
+/e
+
+/s
+Frederick Bishop?
+/t
+프레드릭 비숍 씨?
+/e
+
+/s
+Oh, God...
+/t
+오 주여
+/e
+
+/s
+Hey, are you Frederick Bishop?
+/t
+비숍 씨 맞죠?
+/e
+
+
+/s
+No. He's dead. sorry
+/t
+아니, 그 사람은 이미 죽었어.
+/e
+
+/s
+But isn't this your picture?
+/t
+하지만 사진을 보면 프레드릭씨가 맞는데요?
+/e
+
+/s
+I suppose so.
+/t
+그런 것 같군
+/e
+
+/s
+Jack Foster. I'm your new charge.
+/t
+잭 포스터 입니다. 이번에 새로 후임으로 들어왔습니다.
+/e
+
+
+/s
+No you're not.
+/t
+아니, 그럴 순 없지.
+/e
+
+/s
+You have to take this kid off me.
+/t
+이 꼬맹이 딴곳으로 보내.
+/e
+
+/s
+Ha, of course not. He came all this way just to see you. Frederick Bishop, the pride of Australia.
+/t
+하, 물론 안되지. 당신을 보겠다고 온갖 수를 쓰고 온 놈이라고. 우리 오스트레일리아의 자랑인 댁을 보기 위해서 말이야.
+/e
+
+/s
+He even lied about his age to get pas conscription.
+/t
+입대하기 위해 나이까지 속이고 온 놈이야
+/e
+
+/s
+You know morse code?
+/t
+모스 부호 알어?
+/e
+
+/s
+Yes!
+/t
+물론입니다!
+/e
+
+/s
+Follow me!
+/t
+따라와!
+/e
+
+/s
+Bishop : What a disaster. Our first wave didn't stand a chance.
+/t
+비숍: 꼴이 말이 아니군. 첫 진격은 가망이 없겠어.
+/e
+
+
+
+/s
+Foster: Look at all their defenses. How can we take the beach?
+/t
+포스터: 방어시설을 보세요. 어떻게 해변을 차지하죠?
+/e
+
+/s
+Bishop: We have the dreadnoughts this time. Plug your ears, Kid. It's going to be loud.
+/t
+비숍: 드레드노트를 쓸 때가 왔군. 어이 신참, 좀 시끄러울 테니 귀를 막어.
+/e
+
+
+
+/s
+Send these coordinates.
+/t
+내가 본 지역의 좌표로 보내.
+/e
+
+
+/s
+That's it. Time to go.
+/t
+좋아. 갈 시간이군
+/e
+
+/s
+Whoa. where do you think you're going?
+/t
+워워, 어딜 갈려고 하는 거지?
+/e
+
+/s
+With you!
+/t
+저도 갈게요!
+/e
+
+/s
+Level your gun.
+/t
+총이나 제대로 겨눠봐.
+/e
+
+/s
+Yeah okay, you're staying here.
+/t
+됐다, 넌 여기 남아 있어.
+/e
+
+/s
+And you'll move up with rear command only after i fire the signal flare.
+/t
+넌 내가 신호탄을 발사할 때 후방 지휘소와 같이 이동해.
+/e
+
+/s
+Yes, sir?
+/t
+알겠나?
+/e
+
+/s
+Yes, sir.
+/t
+알겠습니다.
+/e
+
+/s
+Try to stay out of trouble.
+/t
+문제 일으키지 말고 얌전히 있어.
+/e
+
+/s
+Bishop: I have to get to the top of the beach.
+/t
+비숍: 해변 위로 가야 해.
+/e
+
+/s
+Bishop: Those rowboats don't stand a chance.
+/t
+비숍: 저 배들은 가망이 없겠어.
+/e
+
+/s
+Bishop: Ugh! Jeez!
+/t
+비숍: 이런 세상에!
+/e
+
+
+/s
+Bishop: Come on, lads! Push to the top!
+/t
+비숍: 제군! 위로 올라가야 한다!
+/e
+
+/s
+Bishop: I've got to capture that overlook.
+/t
+비숍: 고지대를 점령해야 해.
+/e
+
+/s
+Bishop: We've got to push towards that overllok.
+/t
+비숍: 제군, 고지대로 밀고 나가야 한다.
+/e
+
+/s
+Bishop: Time to send up the flare.
+/t
+비숍: 플레어를 사용할 시간이군.
+/e
+
+/s
+Fuck, you fucking kidding me?
+/t
+시발! 지금 장난해!
+/e
+
+/s
+Come with me. Here! Look! Look at that, huh! Kid, you lied your way into hell on earth!
+/t
+쳐 와서 보라고 어! 넌 지금 거짓말까지 하면서 제발로 생지옥에 쳐 온 거라고!
+/e
+
+/s
+You just wanted a statue of yourself in your town square.
+/t
+전쟁 영웅이 되어서 마을의 자랑거리라도 되고 싶은 거야?
+/e
+
+
+/s
+I just ...
+/t
+전 그냥..
+/e
+
+/s
+Come on kid, get up. Come on. Come on.
+/t
+이봐 신참, 진정해. 진정하라고.
+/e
+
+/s
+I'm gonna die.
+/t
+저도 똑같이 죽겠죠.
+/e
+
+/s
+No you're not.
+/t
+아니 그렇지 않어.
+/e
+
+/s
+You're Australian.
+/t
+넌 호주인이잖아.
+/e
+
+/s
+We're impossible to kill.
+/t
+우린 무적이라고.
+/e
+
+/s
+Yeah... I guess so.
+/t
+예.. 그런거 같네요.
+/e
+
+/s
+Unless--
+/t
+아니면..
+/e
+
+/s
+Not a Kiwi. are you?
+/t
+설마 뉴질랜드놈은 아닌 거겠지?
+/e
+
+/s
+Now-first things first.
+/t
+이제, 가장 중요한 걸 먼저 해 보자고.
+/e
+
+/s
+Here, come on, stand up.
+/t
+이거 들고, 자 이제 일어나 봐.
+/e
+
+/s
+Follow me. Arem in here. This are out. Butt into your shoulder, that's it. Check against the butt.
+/t
+자 날 따라해. 팔은 이 안쪽으로, 이쪽 팔은 바깥으로, 개머리판은 어깨에 대게, 잘했어. 개뺨은 개머리판에 가까이 두게.
+/e
+
+/s
+No, that's it. Point it the way you wanna shoot it. That's it, okay. Put your feet out a little bit.
+/t
+아니, 그렇지. 시선은 쏠 위치에 고정해. 좋아, 바로 그거야. 다리는 약간 벌리게.
+/e
+
+/s
+I was beginning to think I already lost my Australians.
+/t
+우리 호주 사람인을 다 잃었다고 생각 하던 참이었어.
+/e
+
+/s
+What can i do you for?
+/t
+뭘 하면되지?
+/e
+
+/s
+Not you, the boy. We need a runner for the frontlines.
+/t
+당신 말고, 저 신참이 필요해. 최전방으로 갈 사람이 필요하거든.
+/e
+
+/s
+Really?
+/t
+정말입니까?
+/e
+
+/s
+No
+/t
+안 돼
+/e
+
+/s
+Yes!
+/t
+좋습니다!
+/e
+
+/s
+No
+/t
+안 돼
+/e
+
+/s
+You can't make the kid do it. He'll just stumble into a firefight and get killed.
+/t
+저 신참은 안 돼. 가다간 개죽음 뿐이야.
+/e
+
+
+/s
+No no, I can do it!
+/t
+아뇨 아뇨! 전 할 수 있습니다!
+/e
+
+/s
+No! I'll do it.
+/t
+안돼! 내가 직접 나서지.
+/e
+
+/s
+Fine. Yopu're here with me. And you-you will be running.
+/t
+좋아. 신참 넌 나랑 같이 있는다. 그리고 자네, 자네는 최전방으로 가야 할거야.
+/e
+
+/s
+Bishop: I need to find a way past those Ottoman.
+/t
+비숍: 오스만 놈들을 우회할 갈 길을 찾아야 해.
+/e
+
+/s
+Bishop: Yeah... looks like trouble alright.
+/t
+비숍: 좋아... 문제가 좀 있군.
+/e
+
+/s
+Bishop: Fuck!
+/t
+비숍: 씨발!
+/e
+
+/s
+Bishop: This whole thnig is going to shi.t I need to get back Whitehall.
+/t
+비숍: 여긴 난장판이군. 화이트홀로 돌아가야겠어.
+/e
+
+/s
+Bishop: Nearly there.
+/t
+비숍: 거의 다 왔군.
+/e
+
+/s
+Fucking hell, you coulda killed me!
+/t
+젠장, 까딱하단 날 쏠뻔했잖아!
+/e
+
+/s
+But I didn't!
+/t
+하지만 안 그랬죠!
+/e
+
+/s
+No, you sure fucking didn't
+/t
+그래, 씨발 그런일이 안 생겼지.
+/e
+
+/s
+Nice Shot.
+/t
+잘 쐈어.
+/e
+
+/s
+Uh, well, you know. I just kinda saw him out there are and i-
+/t
+어, 그저 전, 알고 계시다시피, 적이 보여서 쐇-
+/e
+
+/s
+You got falling lines across the board.
+/t
+전반적으로 우리가 밀리고 있군.
+/e
+
+/s
+That's what i thouhgt.
+/t
+역시나...
+/e
+
+/s
+Bishop, go tell Rear Command that we'll be moving up.
+/t
+비숍, 후방 사령부로 가서 우리가 전진할 거라고 알려줘.
+/e
+
+/s
+Hey, don't worry. I can handle myself here.
+/t
+걱정마세요. 저 혼자서도 잘 할 수 있어요.
+/e
+
+/s
+Head down. Gun up. No open areas.
+/t
+고개는 숙여, 총구는 올리고. 개활지는 피해.
+/e
+
+/s
+Got it?
+/t
+알았어?
+/e
+
+/s
+Got it.
+/t
+알았어요
+/e
+
+/s
+Bishop: I've got to get to Rear Command.
+/t
+비숍: 후방지휘소로 빨리 가야겠어
+/e
+
+/s
+Bishop: Wait...where is everyone?
+/t
+비숍: 잠깐만...다들 어디로갔지?
+/e
+
+/s
+Bishop: For those who didn't hear from a runner, the allied position is lost. Artillery fire orederd to cover retreat to beach, Shelling the village and outlying forts. Shit, Foster!
+/t
+비숍: 전령에게 소식을 받지 못한 사람들에게 - 연합군 진지를 잃었다. 해변으로 후퇴하기 위해 엄호 포격을 요청했다. 포격 위는 마을과 요새 외곽이다. 젠장할!
+/e
+
+
+/s
+Bishop: Fucking Brits, shelling their own position to cover a retreat.
+/t
+비숍: 망할 영국새끼들, 후퇴 할려고 자기 진지를 포격한다니.
+/e
+
+/s
+Bishop: Artillery already? Fucking Hell!
+/t
+비숍: 빌어먹을! 벌써 포격이 시작 되었다고?
+/e
+
+/s
+Bishop: OK, now where's Whitehall?
+/t
+비숍: 좋아, 화이트홀은 어디에 있는거지?
+/e
+
+/s
+Bishop: Whitehall! News from the Rear!
+/t
+비숍: 화이트홀! 후방에서 온 소식이오!
+/e
+
+/s
+Whitehall: Save it, help us here first!
+/t
+화이트홀: 일단 우릴 먼저 도와주시오!
+/e
+
+/s
+Whitehall: Prepare yourselves men!
+/t
+화이트홀: 공격에 대비하라!
+/e
+
+/s
+Whitehall: Dammit! Here tehy come again boys!
+/t
+화이트홀: 제길! 적들이 다시 몰려온다!
+/e
+
+/s
+Whitehall: Nice shot, Bishop.
+/t
+화이트홀: 잘 쐈습니다, 비숍.
+/e
+
+/s
+Whitehall: Nice work, Bishop.
+/t
+화이트홀: 잘 했습니다, 비숍.
+/e
+
+/s
+Whitehall: Get in cover.
+/t
+화이트홀: 엄폐해라.
+/e
+
+/s
+Whitehall: Fight them back!
+/t
+화이트홀: 물러서지마라!
+/e
+
+/s
+Whitehall: This is the final push men! Stay strong!
+/t
+화이트홀: 놈들의 마지막 진격이다! 자리를 지켜라!
+/e
+
+/s
+Bishop: Yeah.. go to hell. Get out of here.
+/t
+비숍: 그래... 지옥으로 꺼져버려.
+/e
+
+/s
+Dammit! Here they come again boys!
+/t
+젠장! 놈들이 다시 몰려온다 제군들!
+/e
+
+/s
+Full scale retreat. They're gonna shall the village and fort to cover us. We need to get out. Now.
+/t
+전 병력을 철수시켜야 해. 마을과 요새에 포격이 떨어질 거야. 지금 당장 나가야 해!
+/e
+
+/s
+What? I sent men up to secure the fort?
+/t
+뭐라고? 요새를 확보하기 위해 병력을 보냈는데.
+/e
+
+
+/s
+They're dead men. who went?
+/t
+죽은 거나 다름없군. 누굴 보냈지?
+/e
+
+
+/s
+Only those who volunteered. So, naturally, all of them.
+/t
+지원자들만 보냈는데, 모두 지원했어.
+/e
+
+/s
+Fucking kids
+/t
+망할 애새끼들
+/e
+
+/s
+you remember being his age!
+/t
+당신도 젊었을 때 어땠는지 기억하잖아!
+/e
+
+/s
+Foster.
+/t
+포스터..
+/e
+
+/s
+Fuck!
+/t
+시발!
+/e
+
+/s
+i gotta get that kid.
+/t
+내가 구해야겠어.
+/e
+
+/s
+Go. I'll pretend I didn't see you.
+/t
+가요. 못 본 척 할테니까.
+/e
+
+/s
+This isn't on you.
+/t
+당신 탓이 아니야.
+/e
+
+/s
+Of course it is. One more death for me to live with.
+/t
+당연히 내 탓이지. 살기 위해 또 한명 죽음으로 내몰았는데.
+/e
+
+/s
+Go. Go, you don't have much time.
+/t
+어서 가! 시간이 별로 없어.
+/e
+
+
+
+/s
+Storming a fort by myselft... and i called Foster an pin-head.
+/t
+요새를 혼자 급습한다라.... 포스터 보고 멍청이라고 했는데 남말할 처지가 아니군.
+/e
+
+
+/s
+Now, where's the entrance to this damn place...
+/t
+빌어먹을 입구가 어디에 있는거지...
+/e
+
+
+/s
+What, again? You sure you don't just wanna shoot me?
+/t
+또에요? 정말로 절 쏘고 싶은지 확인 하실려고요?
+/e
+
+/s
+Come on. Let's get you out of here.
+/t
+자 이제 여기서 나가자고.
+/e
+
+
+/s
+This place about to come down any moment
+/t
+여긴 곧 박살날거야.
+/e
+
+/s
+No, we can't leave. There are still hostiles coming and we can't outrun them with our wounded.
+/t
+떠날 순 없어요. 적들은 계속 오고 있고, 부상자들을 데리고 빨리 뛸 수도 없어요.
+/e
+
+/s
+You get going then. I'll cover your retreat.
+/t
+네가 가기 시작하면, 내가 뒤에서 엄호해주지.
+/e
+
+
+/s
+But bishop, there are still hundreds--
+/t
+하지만 아직 수백명이..
+/e
+
+/s
+I'll make it look I'm capturing the fort, it'll be enough distraction.
+/t
+요새를 탈환하는 것 처럼 보이게 할거야, 그걸로 적들을 교란하기에 충분해.
+/e
+
+/s
+Once you get past allied lines send up a flare-let me know you're safe? I'll make my retreat then.
+/t
+연합군 전선을 통과하면 플레어를 쏴서 네가 안전한지를 알려줘. 그럼 나도 후퇴하지.
+/e
+
+/s
+Oh, so you're disobeying orders now?
+/t
+오호, 이제 명령 어기시겠다?
+/e
+
+/e
+
+/s
+Oh, I assume you did to come here?
+/t
+오호, 당신이라도 그렇게 했을걸요?
+/e
+
+/s
+Come Here.
+/t
+이리 와 봐.
+/e
+
+/s
+There. You're a proper Aussie now. Gotta look the part.
+/t
+이제야 제대로 된 호주놈처럼 보이는군. 잘 어울려.
+/e
+
+/s
+Right.
+/t
+좋아
+/e
+
+
+
+/s
+Up and at them, lads. Let's go.
+/t
+모두 일어나 제군들. 이제 가자고.
+/e
+
+/s
+So going to get worse judgments.
+/t
+더 나쁘게 가는 법도 있으니..
+/e
+
+/s
+Well, this is it i guess.
+/t
+뭐, 이대로 해야할거 같군.
+/e
+
+/s
+well, I could think of worse ways to go.
+/t
+뭐, 더 안 좋은 일도 생각해 놔야 했었는걸.
+/e
+
+/s
+Come on! I can take you!
+/t
+덤벼봐! 상대해 주마!
+/e
+
+
+/s
+C'est la Guerre.
+/t
+전쟁이란 그런거지.
+/e
+
+/s
+I'll take you all on!
+/t
+전부다 상대해주마!
+/e
+
+
+/s
+Bishop: Fucking Poms! Thank christ they don't have better aim.
+/t
+비숍: 빌어먹을 영국 새끼들! 오 주여 형편없는 조준 실력을 저들에게 줘서 고맙습니다.
+/e
+
+
+
+/s
+Christ! A bloody flamerthrower?!
+/t
+세상에 망할 화염방사기라고?!
+/e
+
+/s
+Go to hell.
+/t
+지옥으로 꺼져버려.
+/e
+
+/s
+what a god awful plan. I coudln't think of anything better?
+/e
+완전 개판인 계획이군. 더 좋은 방법을 왜 생각하지 못한거지?
+
+/s
+I can't believe they're actually going to fall for this.
+/t
+놈들이 속아넘어갈줄은 상상도 못했는데.
+/e
+
+/s
+Jack better be close. I can't keep this up.
+/t
+잭 빨리 이동해. 더이상 버틸수가 없다고.
+/e
+
+/s
+Agh. Ugh.
+/t
+윽..
+/e
+
+/s
+Good kid
+/t
+잘했어. 
+/e
+
+/s
+Savage fighting continued for 9 months but would ultimately result in a hard-won victory for the ottomans. They held Gallipoli.
+/t
+9개월 동안 싸움이 지속되었지만, 극적으로 오슨만 제국이 승리하게 되었다. 그들은 갈리폴리를 지켜냈다.
+/e
+
+
+
+/s
+Almost a hundred thousand Ottoman soldiers gave their lives while defending their homeland. Form their ranks came the battle-proven leaders that would go on to found the republic of Turkey.
+/t
+10만에 가까운 오스만 병사들이 고향을 지키기 위해 희생되었다. 이후 전투에 능력이 입증된 지휘관들로 구성된 자들에 의해 터키 공화국이 세워졌다.
+/e
+
+/s
+For the first time Australians and New zealanders fought under their own flag. Tales of heroism and mateship were pivotal in forging their national identities.
+/t
+처음으로 호주와 뉴질랜드는 조국의 깃발 아래서 같이 싸웠다. 영웅심과 전우애는 국가적 정체성을 확립하는데 중심이 되었다.
+/e
+
+
+
+/s
+AL-AJDAR, MESOPOTAMIA. Spring 1918
+/t
+1918년 봄 메소포타미아
+/e
+
+
+/s
+The Great War engulfs the globe.
+/t
+세계 대전은 전 지구를 요동치게 했다.
+/e
+
+
+/s
+In the deserts of the Middle East, Arab tribes rebel against their historical oppressor the Ottoman Empire.
+/t
+사막에 위치한 중동국가인 아랍 부족은 오스만제국의 역사적 억압에 저항한다.
+/e
+
+
+/s
+To counter the uprising, the Ottomans deploy their most advanced technologies. The Empire's devastating artillery, combat aircraft and armored vehicles engage rebel forces wielding rifles from horseback. 
+/t
+폭동에 대응하기 위해 오토만은 가장 앞선 기술을 도입했습니다. 제국의 파괴적인 포병, 전투기 및 장갑 차량은 말을 타고 소총을 휘두르는 반란군에 대응했습니다.
+/e
+
+
+/s
+T.E. Lawrence, an unconventional British officer works with a small force of highly mobile rebels. 
+/t
+비범한 능력을 가지고있던 영국 장교인 T.E 로렌스는 소규모 반군과 협력하게 됩니다.
+/e
+
+
+/s
+They cannot confront the Ottoman forces head-on. Instead they must fight another way.
+/t
+그들은 오스만 군대와 정면으로 대결 할 수 없었으며, 대신 그들은 다른 방식으로 싸워야 했습니다.
+/e
+
+
+/s
+Arabian desert 
+/t
+아라비아 사막
+/e
+
+
+/s
+A vast ocean of drifting sands and scorched, sunbaked rocks.
+/t
+흩날리는 모래와 달궈진 돌의 거대한 바다
+/e
+
+
+/s
+Beneath these endless dunes,oil.
+/t
+이 끝없는 모래 밑에는 석유가 있다
+/e
+
+
+/s
+The lifeblood of our new, mechanical century.
+/t
+기계 시대의 우리의 새로운 생명줄
+/e
+
+
+/s
+For more than 400 years, the Ottoman Empire has ruled these lands
+/t
+400 년이 넘는 세월 동안 오스만 제국은이 땅을 통치했으며
+/e
+
+
+/s
+Controlling all that's to be found here.
+/t
+그들은 보이는 모든 것을 지배하였다.
+/e
+
+
+/s
+But the Ottomans do not rule unopposed.
+/t
+하지만 모두가 오스만 통치에 다 협력했던 것은 아니다
+/e
+
+
+/s
+Small bands of Bedouin rebels have united to overthrow the Empire.
+/t
+작은 규모의 베두인 반란군들은 연합하여 제국을 전복시키고자 하였다.
+/e
+
+
+/s
+They strike without warning and then vanish into the desert.
+/t
+그들은 소리소문없이 공격을 가하고, 홀연히 사막으로 사라지곤 했다.
+/e
+
+
+/s
+Fighting alongside them is a lone British officer
+/t
+그들과 함께 싸우던 팀원들은 영국 장교로
+/e
+
+
+/s
+Whose exploits have earned him wide renown.
+/t
+이를 통해서 그들 스스로의 업적을 달성하곤 했다.
+/e
+
+
+/s
+The world has taken to calling this man
+/t
+세상은 이 남자를,
+/e
+
+
+/s
+Lawrence of Arabia
+/t
+아라비아의 로렌스라 부른다
+/e
+
+/s
+NOTHING IS WRITTEN
+/t
+아무것도 쓰지 않는다
+/e
+
+/s
+Lawrence : In the desert, you rely on good planning, but you also hope for a dash of luck.
+/t
+로렌스 : 사막에서는 계획도 중요하지만, 운도 기대해야 한다
+/e
+
+
+/s
+Lawrence : And luck was with us when we learned of a recently derailed Ottoman train carrying a most interesting piece of carge.
+/t
+로렌스 : 최근 탈선된 오스만 열차에 흥미로운 화물이 있는 것을 보면 운은 우리를 따르는 것 같다
+/e
+
+
+/s
+New OBJECTIVE
+USE BINOCULARS TO SPOT ENEMIES
+/t
+새로운 목표
+망원경을 이용하여 적들을 스팟하라
+/e
+
+/s
+LOOK AT ENEMIES TO SPOT
+/t
+적을 관찰한뒤 스팟버튼을 누르시오
+/e
+
+
+/s
+Lawrence : A small patrol had joined the Ottomans who survived the crash.
+/t
+로렌스 : 사고 생존자들과 오스만 정찰병이 합류했다
+/e
+
+
+/s
+Together, they guarded the wreckage and waited for reinforcements. 
+/t
+로렌스 : 그들은 같이 화물을 지키고, 곧 충원될 보충병을 기다리고 있다.
+/e
+
+
+/s
+Lawrence : When your enemy has better weapons and better equipment than you... steal from your enemy
+/t
+적이 너보다 더 나은 무기를 가지고 있다면, 그들이 가지고 있는 무기를 훔쳐버려라.
+/e
+
+
+/s
+New OBJECTIVE
+ENTER THE ROOFTOP HATCH
+/t
+새로운 목표
+지붕의 해치로 들어가시오
+/e
+
+/s
+Lawrence : A lone fighter has just one advantage over a large enemy force : a lone fighter can move unseen. 
+/t
+홀로 적진에 침투한 한명의 전사가 많은 수의 적보다 전투에서 유리한 점은, 몸을 숨기기 쉽다는 점이다.
+/e
+
+
+/s
+Lawrence : Though powerful and efficient, firearms would often attract attention.
+/t
+무기, 그중에서 총기는 일반적으로 강력하고 효과적으로 적들의 주의를 끈다
+/e
+
+
+/s
+Lawrence : You had to be prepared for the Ottomans to respond in kind.
+/t
+오스만에 대항하기 위해서는 그 전에 사전 준비가 필요하다
+/e
+
+/s
+NEW OBJECTIVE
+SEARCH FOR THE CODE BOOK
+/t
+새로운 목표
+숨겨진 코드북 찾기
+/e
+
+/s
+come out! 
+/t
+나와!
+/e
+
+
+/s
+ done 
+/t
+다 끝났어
+/e
+
+
+/s
+Well, you did not think we would be fast enough to catch youhere, did you
+/t
+우리가 이렇게 빨리 올 줄은 몰랐지?
+/e
+
+
+/s
+Lawrence of Arabia? 
+/t
+아바리아의 로렌스?
+/e
+
+
+/s
+Actually.. 
+/t
+사실.. 
+/e
+
+
+/s
+I was rather depending on it.
+/t
+그렇게 해주길 바랬어
+/e
+
+
+/s
+El-Orens.
+/t
+엘 오렌스
+/e
+
+
+/s
+Well, this is very clever.
+/t
+이거 똑똑했어
+/e
+
+
+/s
+Now the hunter becomes the hunted.
+/t
+이제 사냥꾼이 사냥당했군
+/e
+
+
+/s
+So, Who might you be?
+/t
+그래서 넌 누구지?
+/e
+
+
+/s
+How enchanting you are, my dear
+/t
+얼마나 매혹적이야 이거
+/e
+
+
+/s
+I'll show you enchanting.
+/t
+내가 진짜 매혹적인 것을 보여주지
+/e
+
+
+/s
+if it weren't for ou i'd be free.
+/t
+너희들이 없다면 난 자유로웠을거야
+/e
+
+
+/s
+Free is it?
+/t
+자유?
+/e
+
+
+/s
+You'll be free when you're dead
+/t
+너가 죽고나면 자유로워질거야
+/e
+
+
+/s
+and i'm happy to tell you : the Empire intends to grant you all this freedom very soon.
+/t
+그리고 나는 너의에게 말해줄 좋은 소식이 있지. <제국>은 얼마 지나지않아 너희 모두에게 자유를 부여하려고 한다
+/e
+
+
+/s
+Even now, an engine of destruction scours this desrt
+/t
+지금 이순간에도, 파괴의 엔진은 이 황량한 사막을 훑고 있다
+/e
+
+
+/s
+obliterating you allies, your families, your homes.
+/t
+네 동료들, 네 가족들 그리고 고향을 제거하면서 말야
+/e
+
+
+/s
+Soon there will be nowhere to run!
+/t
+이제 더이상은 네놈들이 도망칠 곳은 없을거야!
+/e
+
+
+/s
+Nowhere to hide.
+/t
+더이상 숨을 곳도 없어
+/e
+
+
+/s
+Soon all that you know and all that you love
+/t
+모두들 알게 될거야, 너희들이 사랑했던 모든 것이
+/e
+
+
+/s
+Will be ashes.
+/t
+잿가루가 될거야
+/e
+
+
+/s
+You will all be free to die
+/t
+너희는 모두 곧 죽음으로서 자유를 누리게 될거다
+/e
+
+
+/s
+Ah, you animal!
+/t
+이 짐승새끼들!
+/e
+
+
+/s
+Zara!
+/t
+자라!
+/e
+
+
+/s
+Now, I understand that you would like nothing more than to strip the flesh from that man's feet
+/t
+나는 네 생각대로 저 남자의 발가죽을 벗겨 사막에 던져버리고
+/e
+
+/s
+and send him off into the desert naked to die.
+/t
+그 상태에서 사막으로 알몸으로 내벗겨버려서 죽이고 싶다는 것을 이해해.
+/e
+
+/s
+But think about it 
+/t
+하지만 생각해봐
+/e
+
+
+/s
+You're right 
+/t
+네가 맞아
+/e
+
+
+/s
+I'm sorry, my friend here, she can be a little brusque.
+/t
+미안하네, 그녀는 꽤나 까칠한 친구일세. 그녀가 좀 씨씩한 편이지.
+/e
+
+
+/s
+You're going to tell me how to lie to your train
+/t
+너는 이제 나한테 기차를 함정으로 이끌 수 있는 방법을 말해줘야해.
+/e
+
+
+/s
+So we can lure it into a trap, and destroy it.
+/t
+그 덫 속으로 유인한 다음 우린 그걸 파괴할거고
+/e
+
+
+/s
+Impossible 
+/t
+불가능해
+/e
+
+
+/s
+To even begin to talk to that train, you would need an entire book of communication coeds.
+/t
+열차와 수신을 하기위해서는, 대화 암호책이 없으면 꼭 필요하거든.
+/e
+
+
+/s
+Oh, like this one, you mean?
+/t
+그러니까 이런거? 니가 말하는게 이거지?
+/e
+
+
+/s
+You can never stop the progress of machines.
+/t
+너희 따위가 <기계> 의 전진을 막을 순 없어
+/e
+
+
+/s
+One day, the whole world will take your alnds and the precious black gold beneath its sands.
+/t
+언젠간, 온 세계가 너희들의 고향땅과 모래 밑에 있는 귀중한 검은 금을 차지할거야
+/e
+
+
+/s
+We shall see, my friend.
+/t
+그런건 곧 알게 되겠지, 친구
+/e
+
+
+/s
+Lawrence : Of course, obtaining the code book was not enough. To destroy this iron dragon, this "Canavar", as the Ottomans had named it
+/t
+로렌스 : 당연히 암호 책을 얻는 것만으론 부족하지. 오스만이 이름붙인 강철의 용 "Canavar" 를 파괴하기 위해서는
+/e
+
+
+/s
+Lawrence : We had to send it three encrypted messages telling it to stand down.
+/t
+로렌스 : 3개의 무장해제 암호 메세지를 보내야 했지
+/e
+
+
+/s
+Lawrence : There were Ottoman outposts scattered along the railroad trackes.
+/t
+로렌스 : 철도길 근처를 따라서 오스만 초소가 퍼져 있다
+/e
+
+
+/s
+Lawrence : The commanders there carried high-priority message capsules. We had to use those to send our orders.
+/t
+로렌스 : 초소에 위치한 지휘관들은 귀중한 메세지 캡슐을 가지고 있었고, 우린 그걸 이용해야만 한다.
+/e
+
+
+/s
+Lawrence : Infiltrating the village wouldn't be easy. A full detachment of Ottoman soldiers had occupied it.
+/t
+로렌스 : 마을을 침투하는 것은 쉽지 않다. 많은 수의 오스만 병사들이 그곳을 완전히 점령하고 있다
+/e
+
+
+/s
+Lawrence : The Ottomans had chosen an isolated location for their desert outpost.
+/t
+로렌스 : 오스만은 사막의 전초기지 위치로서 고립된 지역을 선택했다
+/e
+
+
+/s
+Lawrence : It seemed lightly defended. It was also well stocked with arms and equipment.
+/t
+로렌스 : 방어가 허술한 것 같이 보인다. 또한 그곳에는 무기와 장비가 구비되어 있다.
+/e
+
+/s
+Lawrence : The ancient ruins were all that remained of a civilisation now lost to time. 
+/t
+로렌스 : 고대 유적지는 시간이 지나도 잃어버린 문명으로서 그 자리에 남아 있다.
+/e
+
+
+/s
+Lawrence : The Ottoman Empire brought in the modern world with a host of armored vehicles and field guns.
+/t
+로렌스 : 오스만 제국은 현대화된 수많은 무장차량들과 필드건들을 가지고 왔다.
+/e
+
+
+/s
+Lawrence : Three commanders to eliminate, three personal message capsuled to be stolen and then sent with our false orders.
+/t
+로렌스 : 3명의 지휘관을 암살하고, 3 개의 메시지 캡슐을 훔친 뒤, 우리의 잘못된 명령을 그들에게 보낼 예정이다.
+/e
+
+
+/s
+Lawrence : How Zara tackled this dangerous and audacious mission was up to her.
+/t
+로렌스 : 이 위험하고 대담한 임무를 어떻게 이뤄나갈지는 자라 그녀에게 달려있다.
+/e
+
+/s
+NEW OBJECTIVE
+RECON ANY OF THE OTTOMAN STRONGHOLDS
+/t
+새로운 목표
+오스만 제국의 거점을 정찰하시오
+/e
+
+/s
+Lawrence : The Bedouin treasured their horses. And in return, those animals grante their riders unparalleled speed and mobility.
+/t
+로렌스 : 베두인 족은 그들의 말을 소중히 여겼다. 그리고 그에 대한 보답으로 말들은 탑승자에게 매우빠른 속도와 탁월한 이동성을 제공했다.
+/e
+
+/s
+NEW OBJECTIVE
+ELIMINATE THE COMMANDER
+/t
+새로운 목표
+적의 지휘관을 제거하라
+/e
+
+/s
+NEW OBJECTIVE
+SEIZE THE COMMANDER'S SATCHEL
+/t
+새로운 목표
+지휘관의 가방 확인
+/e
+
+/s
+NEW OBJECTIVE
+DISPATCH FAKE MESSAGE
+/t
+새로운 목표
+가짜 전서구를 보내기
+/e
+
+/s
+Lawrence : With a single command is lacking 
+/t
+로렌스 : 단 하나의 명령으로는 부족하다
+/e
+
+
+/s
+Lawrence : Ottoman protocol required the message to be received in triplicate before the train would acknowlege it as genuine.
+/t
+로렌스 : 오스만군의 통신규약에서는 메세지는 3개의 내용이 일치해야 하기 때문에 이와 일치하여야만 효력이 유효하다. 
+/e
+
+/s
+NEW OBJECTIVE
+RECON EITHER OF THE REMAINING OTTOMAN STRONGHOLDS
+/t
+새로운 목표
+다른곳에 위치한 오스만 군대의 거점 정찰
+/e
+
+/s
+NEW OBJECTIVE
+ELIMINATE THE COMMANDER
+/t
+새로운 목표
+적의 지휘관을 제거하라
+/e
+
+/s
+The New German 1903 sure are better than the old Mausers they sold us.
+/t
+새로운 독일제 1903 은 분명 그들이 우리에게 팔았던 오래된 Mausers 보다 나을 것 입니다.
+/e
+
+/s
+You know they are still using the peabody-Martini? That old single-shot rifil from the eighteen hundreds.
+/t
+그들이 여전히 피바디-마티니를 사용하고 있다는 것을 알고 있습니까? 마티니는 1800년대에 사용된 오래된 단일 샷 라이플입니다.
+/e
+
+/s
+NEW OBJECTIVE
+SEIZE THE COMMANDER'S SATCHEL
+/t
+새로운 목표
+지휘관의 가방 확인
+/e
+
+/s
+NEW OBJECTIVE
+DISPATCH FAKE MESSAGE
+/t
+새로운 목표
+가짜 전서구를 보내기
+/e
+
+/s
+Lawrence : With a single command is lacking 
+/t
+로렌스 : 단 하나의 명령으로는 부족하다
+/e
+
+
+/s
+Lawrence : Ottoman protocol required the message to be received in triplicate before the train would acknowlege it as genuine.
+/t
+로렌스 : 오스만군의 통신규약에서는 메세지는 3개의 내용이 일치해야 하기 때문에 이와 일치하여야만 효력이 유효하다. 
+/e
+
+/s
+NEW OBJECTIVE
+ELIMINATE THE COMMANDER
+/t
+새로운 목표
+적의 지휘관을 제거하라
+/e
+
+/s
+NEW OBJECTIVE
+SEIZE THE COMMANDER'S SATCHEL
+/t
+새로운 목표
+지휘관의 가방 확인
+/e
+
+/s
+NEW OBJECTIVE
+DISPATCH FAKE MESSAGE
+/t
+새로운 목표
+가짜 전서구를 보내기
+/e
+
+/s
+Though you see, the message had already been sent, my dear-
+/t
+너도 알다시피, 전갈은 이미 보내졌어. 예쁜이
+/e
+
+/s
+-though not the message you would've wanted.
+/t
+네가 원했던 전갈은 아니지만 말이야.
+/e
+
+/s
+El-Orens was such a good host, it almost seemed rude to escape.
+/t
+엘 오렌스는 좋은 집주인 이었어, 탈출하기가 미안할 정도더군.
+/e
+
+/s
+I made sure to note the location of Lawrence's camp, of course, which means-
+/t
+물론 로렌스의 야영지 위치를 빠뜨리진 않았지. 그말은 곧....
+/e
+
+/s
+-the train knows, too.
+/t
+열차쪽도 알고 있다는 것.
+/e
+
+/s
+Twice you told that train that everything was clear. But-
+/t
+네가 열차쪽에 문제없다고 두 번 전했지. 하지만..
+/e
+
+/s
+-I told it exactly where to attack.
+/t
+내가 어디를 공격해야 할지 정확히 알려줬지.
+/e
+
+/s
+The beast has your scent, my dear-
+/t
+예쁜이, 야수가 너의 냄새를 맡았어.
+/e
+
+/s
+-and it's coming to slaughter you and your little band of rebels.
+/t
+그리고 너와 반군 패거리를 쳐죽이러 오고있지. 
+/e
+
+/s
+First, the fire storm from the cannon-
+/t
+먼저 대포로 쑥대밭을 만들 것이고
+/e
+
+/s
+-then up close with the troops, to slaughter any survivors.
+/t
+보병 부대가 남은 생존자들을 남김없이 청소할꺼야.
+/e
+
+/s
+The legend of Lawrence of Arabia dies tonight.
+/t
+아라비아의 로렌스 전설은 오늘 밤 끝난다.
+/e
+
+/s
+Lawrence.
+/t
+로렌스.
+/e
+
+/s
+We slipped away just in time.
+/t
+시간 안에 빠져나왔어.
+/e
+
+/s
+Tilkici was a fool to think we'd ever stay after he escaped.
+/t
+멍청한 놈, 지가 탈출한 걸 알고도 가만히 있을 줄 알았나 보네.
+/e
+
+/s
+The Canavar won't stop hunting us.
+/t
+카나바는 멈추지 않을거야.
+/e
+
+/s
+No, it won't. Let me think.
+/t
+그렇겠지, 생각을 해보자.
+/e
+
+/s
+The train's coming a long way-
+/t
+열차는 먼 길을 와
+/e
+
+/s
+-so it'll have to stop to take on water. That's where we strike.
+/t
+그러면 물을 뜨기 위해 멈출 때가 있겠지. 거기서 습격하는거야.
+/e
+
+/s
+Agreed.
+/t
+동의해.
+/e
+
+/s
+I'll deal with any sentries, then rig explosives on the track.
+/t
+내가 초병들을 처리하고 선로에 폭탄을 설치할게.
+/e
+
+/s
+Yes, and I'll rally our fighters.
+/t
+좋아, 그럼 난 전사들을 모으지.
+/e
+
+/s
+When I blow the lines, the train will be trapped. So, when you hear the blast, you need to attack them with everything you have.
+/t
+내가 선로를 날리면 열차는 고립될거야. 그러니 폭발음을 들으면 가진 모든 걸 쏟아부어 공격해야 돼.
+/e
+
+/s
+It's good, but you know that there's a chance the men may not come.
+/t
+좋아. 하지만 너도 알다시피 전사들을 모으지 못할 수도 있어.
+/e
+
+/s
+You may set off those explosives and find you're out there all alone. You know that.
+/t
+폭탄을 터뜨렸는데 너 홀로 있게 될 수도 있어.
+/e
+
+/s
+I guess I won't know either way until I set it off.
+/t
+터뜨리기 전까진 모르겠지.
+/e
+
+/s
+Lawrence: Man makes plans, and God laughs.
+/t
+로렌스: 인간은 계획을 세우고, 신은 이를 비웃는다.
+/e
+
+/s
+Lawrence: As it turned out, the small town where we would ambush the train had a significant enemy presence.
+/t
+로렌스: 나중에 알고 보니, 우리가 매복하려고 했던 마을은 적이 상당히 많이 주둔하고 있었다.
+/e
+
+/s
+Lawrence: Those troops would have to be dealt with before the explosives could be set.
+/t
+로렌스: 폭탄을 설치하기 전에 이놈들을 처리해야 했다.
+/e
+
+/s
+Lawrence: Those troops in the village had to be dealt with before we could push on with our plan to destory the train.
+/t
+로렌스: 우리가 열차를 박살내기위한 계획을 실행하기 전에 마을에있는 적들 부터 처리해야 했다.
+/e
+
+/s
+Lawrence: Once Zara secured the town, the trap could be set for the arriving train.
+/t
+로렌스: 자라가 마을을 확보하면 열차를 박살낼 함정 준비는 완료된다.
+/e
+
+/s
+Vengeance cae be a sweet or bitter brew. How did you find it, Zara?
+/t
+복수는 달콤할 수도 씁쓸할 수도 있지. 자라, 너는 어때?
+/e
+
+/s
+And you're right, we do need to think bigger, act bigger.
+/t
+그리고 네가 옳아. 우린 더 크게 생각하고 더 크게 행동해야돼.
+/e
+
+/s
+Maybe even the Suez Canal
+/t
+수에즈 운하도 말야.
+/e
+
+/s
+Tell me-
+/t
+말해봐
+/e
+
+/s
+What do you know about battleships?
+/t
+전함에 대해 알고 있는게 뭐야?
+/e
+
+/s
+The end of the Great War saw the Ottomans driven from Arabia.
+However, the empires of Britain and France reneged 
+on their promise of Arab independence.
+/t
+세계대전 후 오스만 제국은 아라비아에서 사라졌다.
+하지만, 영국과 프랑스는 아랍 독립에 대한 약속을 어겼다.
+/e
+
+/s
+T.E. Lawrence remains a figure of controvery.
+
+The war for oil continues to this day.
+/t
+T.E. 로렌스는 논란의 인물로 남아있다.
+석유를 향한 전쟁은 지금까지도 계속되고 있다.
+/e
+
+/s
+One day all this will be over.
+/t
+언젠가는 이 모든 것이 끝날 것이다.
+/e
+
+/s
+The war to end all wars will be won-by one side or the other.
+/t
+모든 전쟁을 끝낼 전쟁은 누가 이기든 이길 것이다.
+/e
+
+/s
+The guns will rust. Grass will grow-
+/t
+총은 녹이슬 것이고, 풀은 자랄 것이며
+/e
+
+/s
+-and there'll be nothing left of any of this.
+/t
+전쟁에 관한 것은 아무것도 남아있지 않을 것이다.
+/e
+
+/s
+The land will heal itself as everything does in the end.
+/t
+결국 모든 것이 그렇듯, 대지는 스스로 회복할 것이다.
+/e
+
+/s
+We'll be long gone by then-but maybe not forgotten.
+/t
+그 때면 우리는 죽고 없겠지만, 아마도 잊혀지지는 않을 것이다.
+/e
+
+/s
+History only remembers one in a thousand of us-
+/t
+역사가 우리 천 명 중 하나만 기억한다면
+/e
+
+/s
+-then the future will be filled with stories of who we were and what we did.
+/t
+미래는 우리가 누구였고 무엇을 했는지로 채워질 것이다.
+/e
+
+/s
+How we lived, how we fought and how we died.
+/t
+우리가 어떻게 살았고, 어떻게 싸웠으며, 어떻게 죽었는지를 말이다.
+/e
+
+/s
+When this is all over and the war is won-
+/t
+이 모든 것이 끝나고 전쟁에 승리했을때
+/e
+
+/s
+-they will remember us.
+/t
+사람들은 우리를 기억할 것이다.
+/e
+
+/s
+But until that day comes, we will stand, we will look death in the eye-
+/t
+하지만 그 날이 오기 전까진, 우리는 버틴다. 죽음을 직시하며
+/e
+
+/s
+-and we will fight!
+/t
+우리는 싸울 것이다.
+/e

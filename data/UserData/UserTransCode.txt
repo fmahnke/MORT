@@ -1,0 +1,9 @@
+//sample
+//code list - https://cloud.google.com/translate/docs/languages?hl=en
+//only support google translate
+//code, display name
+//it, 이탈리아어
+
+//is a comment. please remove this word when apply code '//' -> apply code ex : it, 이탈리아어
+
+

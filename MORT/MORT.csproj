@@ -64,4 +64,26 @@
     </None>
   </ItemGroup>
 
+  <Target Name="CopyFiles" AfterTargets="Build">
+    <ItemGroup>
+      <Misc Include="..\data\characterValue.txt;..\data\ocrResult.txt;..\data\python-3.8.10-embed-amd64.zip;..\data\VersionData.txt;..\data\grpc_csharp_ext.x64.dll;..\data\WebView2Loader.dll" />
+      <DB Include="..\data\DB\**\*.*" />
+      <DIC Include="..\data\DIC\**\*.*" />
+      <ExternDLL Include="..\data\ExternDLL\**\*.*" />
+      <GSTrans Include="..\data\GSTrans\**\*.*" />
+      <NHocr Include="..\data\NHocr\**\*.*" />
+      <tessdata Include="..\data\tessdata\**\*.*" />
+      <UserData Include="..\data\UserData\**\*.*" />
+      <NHOcr Include="..\MORT_CORE\MORT_CORE\lib\nhocr.dll" />
+    </ItemGroup>
+    <Copy SourceFiles="@(Misc)" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(DB)" DestinationFolder="$(OutputPath)\DB" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(DIC)" DestinationFolder="$(OutputPath)\DB" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(ExternDLL)" DestinationFolder="$(OutputPath)\ExternDLL" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(GSTrans)" DestinationFolder="$(OutputPath)\GSTrans" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(NHocr)" DestinationFolder="$(OutputPath)\NHocr" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(tessdata)" DestinationFolder="$(OutputPath)\tessdata" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(UserData)" DestinationFolder="$(OutputPath)\UserData" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(NHOcr)" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" />
+  </Target>
 </Project>

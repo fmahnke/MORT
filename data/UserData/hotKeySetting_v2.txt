@@ -1,0 +1,18 @@
+Translate
+ControlKey ShiftKey Z 
+
+OpenDic
+ControlKey ShiftKey S 
+
+QuickOCR
+ControlKey ShiftKey X 
+
+SnapShot
+ControlKey ShiftKey A 
+
+TranslateOnce
+ControlKey ShiftKey C 
+
+Hide
+ControlKey ShiftKey D 
+
