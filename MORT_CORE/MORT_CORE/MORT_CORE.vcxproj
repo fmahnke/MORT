@@ -28,6 +28,18 @@
     <ClCompile Include="MainCore.cpp" />
     <ClCompile Include="StringTokenizer.cpp" />
   </ItemGroup>
+
+  <PropertyGroup Label="Vcpkg">
+    <VcpkgEnableManifest>true</VcpkgEnableManifest>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Vcpkg" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <VcpkgTriplet>x64-windows</VcpkgTriplet>
+    <VcpkgConfiguration>Release</VcpkgConfiguration>
+    <VcpkgUseStatic>true</VcpkgUseStatic>
+    <VcpkgUseMD>true</VcpkgUseMD>
+  </PropertyGroup>
+
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C22FAB34-B175-42E4-AC8E-D0EA895B8C81}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -97,15 +109,6 @@
     <IncludePath>$(ProjectDir)Tesseract-OCR\;$(ProjectDir)Tesseract-OCR\google\;$(ProjectDir)Tesseract-OCR\leptonica\;$(ProjectDir)Tesseract-OCR\libpng16\;$(ProjectDir)Tesseract-OCR\libxml\;$(ProjectDir)Tesseract-OCR\libxml2\;$(ProjectDir)Tesseract-OCR\lzma\;$(ProjectDir)Tesseract-OCR\opencv2\;$(ProjectDir)Tesseract-OCR\openssl\;$(ProjectDir)Tesseract-OCR\tesseract\;$(ProjectDir)Tesseract-OCR\webp\;$(IncludePath)</IncludePath>
     <LibraryPath>$(ProjectDir)lib\Tesseract-OCR;$(ProjectDir)lib;$(LibraryPath)</LibraryPath>
     <TargetName>MORT_CORE</TargetName>
-  </PropertyGroup>
-  <PropertyGroup Label="Vcpkg">
-    <VcpkgEnableManifest>false</VcpkgEnableManifest>
-  </PropertyGroup>
-  <PropertyGroup Label="Vcpkg" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <VcpkgTriplet>x64-windows</VcpkgTriplet>
-    <VcpkgConfiguration>Release</VcpkgConfiguration>
-    <VcpkgUseStatic>true</VcpkgUseStatic>
-    <VcpkgUseMD>true</VcpkgUseMD>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

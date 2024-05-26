@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "builtin-baseline": "01f602195983451bc83e72f4214af2cbc495aa94",
+    "dependencies": [
+        {
+            "name": "opencv",
+            "platform": "(windows & x64 & static)"
+        },
+        {
+            "name": "tesseract",
+            "platform": "(windows & x64 & static)"
+        }
+    ],
+    "overrides": [
+        {
+            "name": "opencv",
+            "version": "4.8.0"
+        },
+        {
+            "name": "tesseract",
+            "version": "5.3.4"
+        }
+    ],
+    "vcpkg-configuration": {
+        "overlay-ports": [ "../vcpkg setting/ports" ],
+        "overlay-triplets": [ "../vcpkg setting/triplets" ]
+    }
+}
