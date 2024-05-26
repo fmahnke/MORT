@@ -1,2 +1,14 @@
+.vs/
 /MORT/obj
 /MORT/bin
+/MORT_CORE/MORT_CORE/vcpkg_installed/
+/MORT_CORE/MORT_CORE/x64/
+/x64
+CloudVision/bin
+CloudVision/obj
+GSTrans/bin
+GSTrans/obj
+PipeClient/bin
+PipeClient/obj
+Updater/bin
+Updater/obj
