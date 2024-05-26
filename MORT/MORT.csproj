@@ -47,6 +47,9 @@
   <ItemGroup>
     <ProjectReference Include="..\CloudVision\CloudVision.csproj" />
     <ProjectReference Include="..\GSTrans\GSTrans.csproj" />
+    <ProjectReference Include="..\MORT_CORE\MORT_CORE\MORT_CORE.vcxproj">
+      <Private></Private>
+    </ProjectReference>
   </ItemGroup>
 
   <ItemGroup>

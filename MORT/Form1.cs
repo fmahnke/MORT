@@ -147,111 +147,111 @@ namespace MORT
         #region ::::::::::::::::::::::::::DLL:::::::::::::::::::::::::::::::::::::::::::::::::
 
         //MORT_CORE 침식함수
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void setErode();
 
         //MORT_CORE 내부 동작 함수
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
         public static extern void processOcr(StringBuilder test, StringBuilder test1);
 
 
 
         //MORT_CORE 내부 동작 함수 - 데이터도 같이 보냄
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
         unsafe public static extern void processOcrWithData(StringBuilder ocrBuilder, StringBuilder resultBuilder,
             int width, int height, int positionX, int positionY, [In, Out][MarshalAs(UnmanagedType.LPArray)] byte[] data);
 
 
 
         //MORT_CORE 스펠링 체크
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
         public static extern void ProcessGetSpellingCheck(StringBuilder ocrResult, bool isUseJpn);
 
         //MORT_CORE DB만 가져오기
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
         public static extern void ProcessGetDBText(StringBuilder original, StringBuilder result);
 
         //MORT_CORE 이미지 데이터만 가져오기
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
         unsafe public static extern System.IntPtr processGetImgData(int index, ref int x, ref int y, ref int channels, ref int locationX, ref int locationY);
 
         //MORT_CORE 이미지 데이터만 가져오기
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Unicode, CallingConvention = CallingConvention.Cdecl)]
         unsafe public static extern System.IntPtr processGetImgDataFromByte(int index, int width, int height, int positionX, int positionY,
             [In, Out][MarshalAs(UnmanagedType.LPArray)] byte[] data, ref int x, ref int y, ref int channels);
 
         //MORT_CORE 이미지 영역 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void setCutPoint(int[] newX, int[] newY, int[] newX2, int[] newY2, int size);
 
         //MORT_CORE 제외 영역 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetExceptPoint(int[] newX, int[] newY, int[] newX2, int[] newY2, int size);
         //
 
         //MORT_CORE 초기화
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void initOcr();
 
         //MORT_CORE 폰트 교육자료 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
         public static extern void setTessdata(string tessData, bool isUseJpnFlag);
 
         //MORT_CORE RGB, HSV 값 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void setFiducialValue(int[] newValueR, int[] newValueG, int[] newValueB, int[] newValueS1, int[] newValueS2, int[] newValueV1, int[] newValueV2, int size);
 
 
         //디버그 모드 활성화.
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetIsDebugMode(bool isDebug, bool isShowReplace, bool isSaveCapture, bool isSaveCaptureResult);
 
         //MORT_CORE 빙 / DB 사용 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
         public static extern void setUseDB(bool newIsUseDBFlag, bool IsUsePartialDB, string newDbFileText);
 
         //MORT_CORE 교정 사전 사용
-        [DllImport(@"DLL\\MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]
         public static extern void setUseCheckSpelling(bool newIsUseCheckSpellingFlag, bool isMatchingWord, string newDicFileText);
 
         //MORT_CORE 이미지 보정 사용 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void setAdvencedImgOption(bool newIsUseRGBFlag, bool newIsUseHSVFlag, bool newIsUseErodeFlag, float imgZoomSize, bool isUseThreshold, int thresholdValue);
 
         //MORT_CORE NHocr 사용 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetIsUseNHocr(bool isUseNHocr);
 
         //MORT_CORE isUseJPN 강제 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetIsUseJpn(bool _isUseJpn);
 
         //MORT_CORE isUseJPN 강제 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetReCheckSpellingCount(int _reCheckCount);
 
         //MORT_CORE 대소문자 구분 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetIsStringUpper(bool isUpper);
 
         //MORT_CORE 공백제거
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetRemoveSpace(bool isRemove);
 
         //MORT_CORE OCR 영역 인덱스 표시
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetShowOCRIndex(bool isShow);
 
         //MORT_CORE 활성화 윈도우 캡쳐 사용 설정
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void SetIsActiveWindow(bool isActiveWindow);
 
         //MORT_CORE 사용할 색그룹 추가
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void AddOcrColorSet(int[] colorList, int size);
 
         //MORT_CORE 사용할 색그룹 초기화
-        [DllImport(@"DLL\\MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(@"MORT_CORE.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void ClearOcrColorSet();
 
 
