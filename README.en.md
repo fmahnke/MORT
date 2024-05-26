@@ -132,12 +132,47 @@ ex
 * NHocr 0.21
 
 ### Create a build and run environment ###
-1. Set the project to Release mode. Set the target CPU to X64.
-2. Build the project first
-3. Can't run after build. The reason is that there are no essential files required for run
-4. Unzip the latest build files into the release folder to get the required files 
-- https://drive.google.com/drive/folders/0BxO-Nrmd-kR7dVp5TWpMQ09jMFU?resourcekey=0-bx6_8OEv3WAGzz9Au9fxNg
-5. MORT_CORE.DLL , nhocr.DLL To modify This dll, please refer to the related projects below
+
+Dependencies are managed using vcpkg. Note that the first build of MORT is
+expected to take much longer than subsequent builds, since the vcpkg
+dependencies are built from source.
+
+vcpkg must be installed before building MORT for the first time. For complete
+instructions, see the
+[github page](https://github.com/microsoft/vcpkg). Brief instructions follow.
+
+```
+> git clone https://github.com/microsoft/vcpkg
+> .\vcpkg\bootstrap-vcpkg.bat
+> .\vcpkg\vcpkg integrate install
+```
+
+vcpkg is now installed and integrated with Visual Studio. Next, clone and build
+the repository.
+
+```
+> git clone https://github.com/fmahnke/MORT.git
+> cd MORT
+```
+
+The repository is ready to build with either Visual Studio or the command line
+tools.
+
+#### Building with Visual Studio
+
+1. Set project to MORT.
+2. Set configuration to x64 Release.
+3. Build the solution and start the program.
+
+#### Building with command line tools
+
+```
+> dotnet restore
+> msbuild MORT.sln -t:Build -p:Configuration=Release /p:Platform=x64
+```
+
+Run the resulting `MORT\bin\**\MORT.exe` from the working directory where it is
+generated.
 
 ### Related Project ###
 
