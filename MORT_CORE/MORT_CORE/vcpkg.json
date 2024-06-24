@@ -8,7 +8,8 @@
         },
         {
             "name": "tesseract",
-            "platform": "(windows & x64 & static)"
+            "platform": "(windows & x64 & static)",
+            "features": ["training-tools"]
         }
     ],
     "overrides": [
